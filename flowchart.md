@@ -86,18 +86,4 @@ graph LR
     O --> P
     P --> Q
     Q --> R
-
-    classDef script fill:#D6EAF8,stroke:#3498DB,stroke-width:2px;
-    classDef data fill:#E8F8F5,stroke:#1ABC9C,stroke-width:2px;
-    classDef db fill:#FADBD8,stroke:#E74C3C,stroke-width:2px;
-    classDef model fill:#FDEDEC,stroke:#C0392B,stroke-width:2px;
-    classDef app fill:#E9F7EF,stroke:#2ECC71,stroke-width:2px;
-    classDef deploy fill:#F4ECF7,stroke:#8E44AD,stroke-width:2px;
-
-    class B,D,F,H,J,M,O script;
-    class C,G,I,N data;
-    class E db;
-    class K,L model;
-    class P app;
-    class Q,R deploy;
 ```
