@@ -1,0 +1,7 @@
+Frequency
+Monetary
+ProductVariety
+AverageAge
+DiscountRate
+ProductCategoryVariety
+Gender_Male

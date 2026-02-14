@@ -1,0 +1,1001 @@
+OrderID,Product,Quantity,Price,CustomerAge,City,PaymentMethod,TransactionDate,Customer_Gender,Discount_Applied,Product_Category
+819,Microphone,1,104.05,34,Philadelphia,Credit Card,2024-12-04,Male,False,Audio
+851,Mouse,1,273.2,47,Houston,Credit Card,2024-12-04,Female,False,Accessories
+772,Laptop,2,41.83,51,Philadelphia,Credit Card,2024-12-05,Male,False,Electronics
+795,Microphone,1,83.24,42,Phoenix,Cash,2024-12-06,Male,False,Audio
+910,Mouse,1,483.43,62,Houston,Debit Card,2024-12-07,Female,False,Accessories
+553,Keyboard,1,81.12,46,Philadelphia,Online Transfer,2024-12-07,Male,False,Accessories
+986,Monitor,2,428.8,47,Phoenix,Debit Card,2024-12-07,Male,False,Electronics
+654,Keyboard,1,283.03,58,Philadelphia,Debit Card,2024-12-13,Male,False,Accessories
+781,Monitor,1,399.9,35,Philadelphia,Online Transfer,2024-12-14,Female,False,Electronics
+845,Microphone,2,11.81,50,Houston,Debit Card,2024-12-15,Female,False,Audio
+695,Speaker,1,473.79,52,Houston,Cash,2024-12-15,Male,False,Audio
+640,Monitor,1,123.67,48,Philadelphia,Online Transfer,2024-12-16,Male,False,Electronics
+750,Webcam,1,239.88,63,Philadelphia,Credit Card,2024-12-16,Female,False,Accessories
+999,Microphone,2,339.3,59,Phoenix,Credit Card,2024-12-17,Female,False,Audio
+685,Keyboard,1,435.09,54,Houston,Credit Card,2024-12-18,Female,False,Accessories
+904,Microphone,2,438.98,57,Phoenix,Credit Card,2024-12-20,Female,False,Audio
+559,Microphone,1,381.85,19,Phoenix,Online Transfer,2024-12-20,Male,False,Audio
+805,Microphone,1,335.51,57,Philadelphia,Credit Card,2024-12-21,Female,False,Audio
+746,Monitor,2,53.21,27,Houston,Debit Card,2024-12-22,Female,False,Electronics
+585,Headphones,1,23.37,22,Philadelphia,Cash,2024-12-22,Female,False,Accessories
+620,Mouse,1,301.1,24,Phoenix,Online Transfer,2024-12-22,Male,False,Accessories
+702,Webcam,1,366.87,45,Phoenix,Credit Card,2024-12-23,Male,False,Accessories
+579,Laptop,1,348.0,38,Phoenix,Cash,2024-12-23,Male,False,Electronics
+754,Webcam,1,287.91,34,Houston,Debit Card,2024-12-24,Male,False,Accessories
+748,Speaker,1,397.74,68,Houston,Cash,2024-12-28,Male,False,Audio
+558,Speaker,1,188.08,39,Phoenix,Credit Card,2024-12-30,Female,False,Audio
+674,Monitor,1,137.51,59,Philadelphia,Debit Card,2024-12-31,Female,False,Electronics
+589,Mouse,1,260.19,20,Houston,Credit Card,2025-01-01,Female,False,Accessories
+546,Webcam,1,268.04,69,Philadelphia,Credit Card,2025-01-02,Female,False,Accessories
+921,Mouse,2,452.07,18,Phoenix,Cash,2025-01-03,Female,False,Accessories
+758,Webcam,2,491.64,44,Houston,Online Transfer,2025-01-03,Male,False,Accessories
+732,Mouse,1,47.96,21,Phoenix,Cash,2025-01-04,Female,False,Accessories
+511,Headphones,1,33.97,52,Philadelphia,Credit Card,2025-01-04,Male,False,Accessories
+752,Webcam,1,240.75,55,Philadelphia,Cash,2025-01-04,Male,False,Accessories
+777,Monitor,2,258.46,60,Philadelphia,Debit Card,2025-01-06,Female,False,Electronics
+569,Webcam,2,127.48,44,Houston,Debit Card,2025-01-07,Female,False,Accessories
+848,Headphones,1,469.97,56,Houston,Cash,2025-01-07,Female,False,Accessories
+860,Monitor,1,384.61,60,Phoenix,Online Transfer,2025-01-08,Male,False,Electronics
+612,Speaker,1,71.87,42,Philadelphia,Cash,2025-01-09,Male,False,Audio
+560,Keyboard,1,408.82,24,Phoenix,Online Transfer,2025-01-09,Female,False,Accessories
+992,Monitor,2,492.94,29,Philadelphia,Cash,2025-01-09,Female,False,Electronics
+648,Keyboard,1,149.99,40,Houston,Cash,2025-01-11,Male,False,Accessories
+686,Webcam,1,95.0,67,Philadelphia,Debit Card,2025-01-12,Female,False,Accessories
+568,Mouse,2,67.92,46,Houston,Debit Card,2025-01-13,Male,False,Accessories
+820,Microphone,2,259.34,44,Philadelphia,Cash,2025-01-16,Female,False,Audio
+988,Keyboard,1,333.63,62,Phoenix,Debit Card,2025-01-17,Male,False,Accessories
+889,Keyboard,1,195.36,41,Philadelphia,Cash,2025-01-18,Male,False,Accessories
+557,Headphones,2,48.6,20,Houston,Cash,2025-01-18,Male,False,Accessories
+788,Microphone,1,216.3,39,Philadelphia,Online Transfer,2025-01-18,Male,False,Audio
+844,Microphone,1,497.92,65,Houston,Online Transfer,2025-01-19,Female,False,Audio
+749,Headphones,1,242.63,61,Philadelphia,Cash,2025-01-19,Male,False,Accessories
+595,Webcam,2,257.57,57,Houston,Online Transfer,2025-01-19,Female,False,Accessories
+521,Laptop,1,226.38,26,Philadelphia,Cash,2025-01-20,Female,False,Electronics
+951,Headphones,2,317.55,50,Phoenix,Debit Card,2025-01-20,Male,False,Accessories
+764,Laptop,1,174.68,63,Phoenix,Cash,2025-01-20,Female,False,Electronics
+642,Monitor,1,35.45,25,Philadelphia,Credit Card,2025-01-20,Female,False,Electronics
+733,Microphone,1,108.35,31,Houston,Credit Card,2025-01-20,Female,False,Audio
+734,Keyboard,2,304.51,31,Houston,Cash,2025-01-21,Male,False,Accessories
+517,Speaker,2,174.32,34,Phoenix,Online Transfer,2025-01-22,Male,True,Audio
+584,Monitor,1,303.92,59,Philadelphia,Credit Card,2025-01-22,Female,False,Electronics
+926,Speaker,1,45.75,49,Houston,Online Transfer,2025-01-23,Female,False,Audio
+998,Keyboard,2,485.77,25,Phoenix,Debit Card,2025-01-23,Male,False,Accessories
+995,Speaker,2,222.89,29,Philadelphia,Online Transfer,2025-01-23,Female,False,Audio
+528,Mouse,1,365.1,40,Phoenix,Debit Card,2025-01-24,Male,False,Accessories
+940,Mouse,2,310.79,42,Philadelphia,Online Transfer,2025-01-25,Female,True,Accessories
+609,Webcam,1,209.82,36,Philadelphia,Cash,2025-01-25,Male,False,Accessories
+621,Webcam,2,330.78,19,Phoenix,Credit Card,2025-01-26,Male,False,Accessories
+720,Laptop,1,498.01,54,Houston,Credit Card,2025-01-27,Female,False,Electronics
+628,Keyboard,1,224.14,52,Philadelphia,Credit Card,2025-01-27,Female,False,Accessories
+947,Speaker,2,248.57,49,Philadelphia,Cash,2025-01-27,Male,False,Audio
+890,Headphones,1,493.51,60,Philadelphia,Credit Card,2025-01-29,Female,False,Accessories
+681,Monitor,1,239.34,29,Philadelphia,Debit Card,2025-01-29,Male,False,Electronics
+719,Mouse,1,81.43,58,Philadelphia,Credit Card,2025-01-29,Female,False,Accessories
+780,Headphones,2,194.16,43,Houston,Credit Card,2025-01-30,Male,False,Accessories
+846,Monitor,1,381.49,41,Houston,Cash,2025-01-30,Female,True,Electronics
+607,Laptop,2,476.74,69,Phoenix,Online Transfer,2025-02-01,Male,False,Electronics
+668,Monitor,1,349.5,47,Houston,Credit Card,2025-02-03,Male,False,Electronics
+615,Webcam,1,85.83,68,Houston,Online Transfer,2025-02-04,Female,False,Accessories
+763,Keyboard,1,41.35,66,Philadelphia,Debit Card,2025-02-05,Male,False,Accessories
+831,Keyboard,2,411.78,55,Philadelphia,Credit Card,2025-02-05,Male,False,Accessories
+721,Speaker,1,457.69,57,Philadelphia,Online Transfer,2025-02-07,Male,False,Audio
+591,Laptop,1,417.8,68,Philadelphia,Online Transfer,2025-02-07,Male,False,Electronics
+610,Speaker,1,441.42,63,Houston,Debit Card,2025-02-07,Male,False,Audio
+968,Microphone,1,116.25,37,Phoenix,Debit Card,2025-02-07,Male,False,Audio
+887,Monitor,1,100.54,48,Phoenix,Online Transfer,2025-02-08,Male,False,Electronics
+797,Laptop,1,90.55,33,Houston,Debit Card,2025-02-08,Male,False,Electronics
+725,Laptop,2,20.89,45,Houston,Debit Card,2025-02-08,Female,False,Electronics
+541,Mouse,2,180.1,41,Houston,Cash,2025-02-08,Male,False,Accessories
+599,Headphones,1,330.11,66,Philadelphia,Credit Card,2025-02-11,Male,False,Accessories
+822,Microphone,1,423.58,30,Houston,Cash,2025-02-11,Male,False,Audio
+786,Microphone,2,445.94,52,Philadelphia,Cash,2025-02-12,Female,False,Audio
+531,Headphones,2,66.07,46,Phoenix,Cash,2025-02-12,Male,False,Accessories
+669,Laptop,1,171.54,21,Phoenix,Cash,2025-02-13,Female,True,Electronics
+816,Keyboard,1,407.01,18,Phoenix,Credit Card,2025-02-14,Male,False,Accessories
+934,Speaker,2,179.18,65,Houston,Credit Card,2025-02-15,Male,True,Audio
+673,Speaker,1,220.52,53,Philadelphia,Debit Card,2025-02-16,Male,False,Audio
+915,Speaker,1,459.89,21,Phoenix,Credit Card,2025-02-17,Female,True,Audio
+708,Monitor,2,21.76,25,Phoenix,Online Transfer,2025-02-17,Male,False,Electronics
+751,Mouse,1,169.09,44,Houston,Online Transfer,2025-02-17,Male,False,Accessories
+583,Keyboard,2,188.8,50,Houston,Debit Card,2025-02-17,Female,False,Accessories
+809,Microphone,1,165.9,22,Phoenix,Online Transfer,2025-02-17,Male,False,Audio
+714,Laptop,2,467.51,20,Philadelphia,Online Transfer,2025-02-20,Male,False,Electronics
+593,Laptop,2,315.68,43,Phoenix,Credit Card,2025-02-20,Male,False,Electronics
+534,Mouse,2,150.31,47,Houston,Online Transfer,2025-02-22,Male,False,Accessories
+635,Mouse,2,470.27,59,Phoenix,Cash,2025-02-22,Female,False,Accessories
+896,Laptop,2,279.11,62,Phoenix,Cash,2025-02-23,Male,False,Electronics
+906,Keyboard,2,125.57,64,Phoenix,Cash,2025-02-23,Female,False,Accessories
+854,Webcam,2,366.48,54,Houston,Credit Card,2025-02-23,Male,False,Accessories
+684,Keyboard,2,481.19,46,Phoenix,Credit Card,2025-02-24,Female,False,Accessories
+936,Microphone,2,244.92,18,Phoenix,Cash,2025-02-24,Male,False,Audio
+611,Monitor,1,223.39,41,Houston,Credit Card,2025-02-24,Female,False,Electronics
+767,Mouse,2,80.1,48,Philadelphia,Online Transfer,2025-02-25,Male,False,Accessories
+880,Webcam,2,10.17,57,Philadelphia,Cash,2025-02-25,Male,True,Accessories
+540,Speaker,2,264.3,45,Phoenix,Online Transfer,2025-02-26,Female,False,Audio
+709,Monitor,1,100.3,55,Houston,Credit Card,2025-02-26,Male,False,Electronics
+836,Monitor,2,143.92,36,Philadelphia,Cash,2025-02-28,Female,False,Electronics
+592,Speaker,2,75.89,48,Philadelphia,Debit Card,2025-02-28,Male,False,Audio
+627,Headphones,2,249.84,52,Phoenix,Online Transfer,2025-02-28,Female,False,Accessories
+656,Microphone,2,61.31,62,Philadelphia,Cash,2025-02-28,Female,False,Audio
+962,Headphones,1,370.22,57,Phoenix,Cash,2025-02-28,Male,False,Accessories
+690,Monitor,2,415.39,58,Philadelphia,Credit Card,2025-02-28,Male,False,Electronics
+577,Monitor,2,488.41,38,Philadelphia,Credit Card,2025-03-01,Male,False,Electronics
+899,Microphone,2,133.2,37,Philadelphia,Debit Card,2025-03-02,Female,False,Audio
+967,Speaker,2,168.36,20,Houston,Cash,2025-03-02,Male,False,Audio
+561,Mouse,2,203.12,46,Philadelphia,Cash,2025-03-03,Male,False,Accessories
+503,Laptop,1,77.5,68,Houston,Debit Card,2025-03-04,Male,False,Electronics
+840,Webcam,1,191.34,53,Phoenix,Cash,2025-03-04,Female,True,Accessories
+653,Microphone,2,249.21,34,Phoenix,Debit Card,2025-03-04,Female,False,Audio
+907,Monitor,1,423.15,24,Phoenix,Credit Card,2025-03-05,Female,False,Electronics
+655,Microphone,1,69.14,43,Houston,Online Transfer,2025-03-07,Male,True,Audio
+715,Microphone,2,11.82,35,Philadelphia,Cash,2025-03-08,Male,False,Audio
+641,Headphones,2,376.52,21,Philadelphia,Debit Card,2025-03-09,Female,False,Accessories
+881,Speaker,1,180.73,21,Philadelphia,Online Transfer,2025-03-09,Female,False,Audio
+519,Headphones,2,173.55,58,Houston,Cash,2025-03-09,Female,True,Accessories
+905,Microphone,1,48.79,22,Philadelphia,Debit Card,2025-03-11,Female,False,Audio
+802,Speaker,2,71.28,28,Phoenix,Online Transfer,2025-03-11,Male,False,Audio
+680,Laptop,1,495.73,53,Houston,Online Transfer,2025-03-11,Female,False,Electronics
+771,Monitor,1,86.66,22,Philadelphia,Cash,2025-03-12,Female,False,Electronics
+594,Microphone,1,78.9,23,Phoenix,Credit Card,2025-03-12,Male,False,Audio
+925,Webcam,2,69.51,46,Phoenix,Online Transfer,2025-03-14,Male,False,Accessories
+516,Headphones,2,446.32,26,Phoenix,Debit Card,2025-03-15,Male,False,Accessories
+676,Keyboard,2,171.77,41,Houston,Debit Card,2025-03-15,Male,False,Accessories
+987,Headphones,2,119.14,63,Philadelphia,Debit Card,2025-03-15,Female,False,Accessories
+782,Keyboard,1,317.3,27,Philadelphia,Debit Card,2025-03-15,Female,False,Accessories
+826,Mouse,2,414.48,60,Philadelphia,Credit Card,2025-03-16,Male,False,Accessories
+883,Headphones,1,126.61,65,Philadelphia,Online Transfer,2025-03-16,Female,False,Accessories
+958,Speaker,2,449.15,27,Phoenix,Cash,2025-03-17,Male,False,Audio
+965,Mouse,2,496.76,43,Phoenix,Online Transfer,2025-03-17,Female,False,Accessories
+646,Webcam,1,366.9,47,Houston,Cash,2025-03-17,Female,False,Accessories
+524,Speaker,2,346.56,53,Philadelphia,Credit Card,2025-03-19,Male,False,Audio
+770,Webcam,2,377.27,52,Houston,Credit Card,2025-03-19,Male,False,Accessories
+716,Speaker,2,173.53,20,Philadelphia,Credit Card,2025-03-19,Female,False,Audio
+590,Headphones,1,93.35,49,Phoenix,Debit Card,2025-03-19,Female,False,Accessories
+550,Headphones,1,207.41,22,Houston,Online Transfer,2025-03-20,Female,False,Accessories
+932,Mouse,1,53.01,51,Phoenix,Credit Card,2025-03-20,Female,False,Accessories
+548,Webcam,2,140.03,46,Phoenix,Credit Card,2025-03-21,Female,False,Accessories
+804,Monitor,1,288.17,33,Phoenix,Debit Card,2025-03-21,Male,False,Electronics
+813,Webcam,1,412.18,38,Houston,Credit Card,2025-03-21,Female,False,Accessories
+538,Speaker,2,33.24,26,Philadelphia,Debit Card,2025-03-22,Male,False,Audio
+873,Microphone,2,141.47,35,Houston,Cash,2025-03-23,Female,False,Audio
+629,Speaker,2,250.0,60,Phoenix,Credit Card,2025-03-24,Male,False,Audio
+704,Speaker,2,283.34,55,Philadelphia,Cash,2025-03-24,Female,False,Audio
+779,Microphone,1,200.82,22,Philadelphia,Credit Card,2025-03-25,Male,False,Audio
+529,Webcam,2,291.65,65,Philadelphia,Online Transfer,2025-03-26,Male,False,Accessories
+759,Microphone,2,359.74,24,Houston,Cash,2025-03-26,Male,False,Audio
+835,Webcam,2,347.39,69,Phoenix,Online Transfer,2025-03-29,Male,False,Accessories
+806,Mouse,2,204.82,52,Philadelphia,Debit Card,2025-03-29,Male,False,Accessories
+723,Laptop,2,148.61,62,Houston,Cash,2025-03-30,Male,False,Electronics
+914,Monitor,1,259.87,44,Houston,Debit Card,2025-03-31,Male,False,Electronics
+855,Headphones,1,404.96,24,Philadelphia,Online Transfer,2025-04-01,Female,False,Accessories
+974,Monitor,1,65.0,44,Houston,Credit Card,2025-04-01,Female,True,Electronics
+823,Microphone,2,81.51,27,Philadelphia,Credit Card,2025-04-01,Female,False,Audio
+827,Speaker,1,216.15,48,Phoenix,Online Transfer,2025-04-02,Male,False,Audio
+903,Webcam,2,175.64,25,Philadelphia,Credit Card,2025-04-03,Female,False,Accessories
+949,Speaker,2,177.23,28,Houston,Debit Card,2025-04-03,Female,False,Audio
+666,Monitor,2,272.2,24,Phoenix,Online Transfer,2025-04-04,Male,False,Electronics
+952,Headphones,1,491.75,18,Houston,Cash,2025-04-04,Male,False,Accessories
+853,Webcam,2,101.79,61,Phoenix,Credit Card,2025-04-04,Male,False,Accessories
+578,Mouse,2,330.87,62,Houston,Debit Card,2025-04-04,Male,False,Accessories
+571,Mouse,2,94.28,48,Phoenix,Cash,2025-04-05,Female,False,Accessories
+664,Mouse,1,320.2,60,Houston,Credit Card,2025-04-06,Female,False,Accessories
+830,Headphones,2,117.01,58,Phoenix,Credit Card,2025-04-08,Male,False,Accessories
+901,Headphones,1,116.92,41,Philadelphia,Cash,2025-04-08,Male,False,Accessories
+928,Mouse,1,251.08,39,Houston,Online Transfer,2025-04-10,Female,False,Accessories
+660,Mouse,1,438.19,46,Phoenix,Online Transfer,2025-04-11,Female,False,Accessories
+948,Microphone,2,314.17,65,Philadelphia,Debit Card,2025-04-11,Male,False,Audio
+663,Speaker,1,475.68,69,Phoenix,Online Transfer,2025-04-12,Male,False,Audio
+769,Keyboard,1,265.71,20,Philadelphia,Cash,2025-04-15,Female,False,Accessories
+888,Microphone,1,216.42,55,Philadelphia,Debit Card,2025-04-15,Female,False,Audio
+916,Microphone,2,112.29,48,Phoenix,Debit Card,2025-04-15,Male,False,Audio
+842,Speaker,2,97.72,18,Houston,Cash,2025-04-16,Female,False,Audio
+738,Keyboard,2,170.34,27,Phoenix,Cash,2025-04-17,Female,False,Accessories
+740,Microphone,2,479.41,23,Houston,Credit Card,2025-04-18,Male,False,Audio
+793,Keyboard,2,433.72,58,Philadelphia,Online Transfer,2025-04-19,Female,False,Accessories
+692,Mouse,1,272.78,44,Houston,Online Transfer,2025-04-20,Male,False,Accessories
+512,Speaker,1,286.98,66,Houston,Cash,2025-04-21,Female,False,Audio
+700,Keyboard,2,44.28,43,Phoenix,Online Transfer,2025-04-21,Female,False,Accessories
+682,Headphones,2,367.24,57,Houston,Credit Card,2025-04-22,Female,False,Accessories
+821,Keyboard,1,299.93,27,Philadelphia,Cash,2025-04-22,Female,False,Accessories
+808,Headphones,2,469.81,62,Philadelphia,Debit Card,2025-04-22,Male,True,Accessories
+659,Microphone,1,354.09,56,Houston,Debit Card,2025-04-23,Female,False,Audio
+963,Monitor,2,325.21,64,Houston,Online Transfer,2025-04-23,Female,False,Electronics
+706,Headphones,1,259.41,30,Houston,Cash,2025-04-23,Male,False,Accessories
+847,Headphones,2,465.58,35,Houston,Cash,2025-04-24,Male,False,Accessories
+575,Speaker,2,139.14,29,Houston,Cash,2025-04-24,Female,True,Audio
+633,Microphone,1,498.16,39,Phoenix,Cash,2025-04-24,Female,True,Audio
+703,Mouse,2,498.46,20,Houston,Debit Card,2025-04-24,Female,False,Accessories
+909,Speaker,2,355.91,45,Houston,Credit Card,2025-04-25,Female,False,Audio
+510,Microphone,1,187.98,41,Phoenix,Online Transfer,2025-04-26,Female,False,Audio
+613,Speaker,1,144.02,44,Houston,Online Transfer,2025-04-29,Male,False,Audio
+939,Speaker,1,174.87,30,Philadelphia,Credit Card,2025-04-29,Male,False,Audio
+586,Speaker,1,15.14,57,Phoenix,Credit Card,2025-05-01,Female,False,Audio
+743,Speaker,2,22.59,67,Phoenix,Cash,2025-05-01,Female,False,Audio
+535,Microphone,1,275.06,52,Houston,Online Transfer,2025-05-02,Male,False,Audio
+651,Keyboard,2,49.69,57,Houston,Credit Card,2025-05-03,Male,True,Accessories
+996,Laptop,1,118.01,20,Houston,Debit Card,2025-05-03,Male,False,Electronics
+878,Monitor,1,193.14,64,Philadelphia,Online Transfer,2025-05-03,Male,False,Electronics
+971,Webcam,2,454.55,55,Philadelphia,Debit Card,2025-05-04,Female,True,Accessories
+580,Headphones,2,412.26,28,Houston,Debit Card,2025-05-05,Male,False,Accessories
+973,Mouse,1,473.76,36,Phoenix,Online Transfer,2025-05-06,Female,False,Accessories
+946,Laptop,2,249.3,69,Philadelphia,Credit Card,2025-05-07,Female,False,Electronics
+741,Speaker,1,27.17,40,Phoenix,Cash,2025-05-07,Male,False,Audio
+671,Monitor,1,165.11,27,Philadelphia,Debit Card,2025-05-08,Male,False,Electronics
+839,Microphone,2,23.73,58,Philadelphia,Debit Card,2025-05-09,Male,False,Audio
+729,Laptop,2,270.17,58,Phoenix,Credit Card,2025-05-11,Female,False,Electronics
+864,Microphone,1,152.75,47,Phoenix,Cash,2025-05-11,Female,False,Audio
+562,Laptop,2,213.69,57,Houston,Cash,2025-05-11,Female,False,Electronics
+954,Speaker,1,307.66,58,Philadelphia,Online Transfer,2025-05-12,Male,False,Audio
+722,Speaker,1,38.18,30,Philadelphia,Online Transfer,2025-05-12,Male,False,Audio
+825,Mouse,2,412.16,56,Houston,Debit Card,2025-05-13,Female,True,Accessories
+886,Speaker,2,44.25,43,Philadelphia,Debit Card,2025-05-13,Male,False,Audio
+862,Laptop,2,43.85,41,Philadelphia,Credit Card,2025-05-13,Female,False,Electronics
+985,Monitor,2,51.46,31,Philadelphia,Cash,2025-05-14,Female,False,Electronics
+792,Speaker,1,102.25,44,Phoenix,Cash,2025-05-14,Female,False,Audio
+572,Mouse,2,440.72,33,Phoenix,Debit Card,2025-05-15,Female,False,Accessories
+689,Webcam,1,143.24,48,Phoenix,Online Transfer,2025-05-16,Male,False,Accessories
+747,Keyboard,2,309.25,59,Houston,Debit Card,2025-05-16,Female,False,Accessories
+508,Speaker,2,64.25,19,Houston,Debit Card,2025-05-17,Male,True,Audio
+617,Mouse,2,295.79,47,Phoenix,Credit Card,2025-05-17,Male,False,Accessories
+626,Monitor,1,202.69,50,Houston,Credit Card,2025-05-18,Male,False,Electronics
+941,Microphone,2,40.25,33,Philadelphia,Online Transfer,2025-05-18,Female,False,Audio
+711,Keyboard,2,378.3,55,Phoenix,Cash,2025-05-18,Male,False,Accessories
+522,Headphones,2,88.29,69,Houston,Credit Card,2025-05-19,Female,False,Accessories
+625,Webcam,1,95.02,55,Phoenix,Cash,2025-05-19,Female,False,Accessories
+984,Mouse,1,272.76,36,Houston,Credit Card,2025-05-19,Male,False,Accessories
+801,Monitor,1,344.95,46,Houston,Debit Card,2025-05-20,Male,False,Electronics
+783,Headphones,2,228.07,67,Houston,Debit Card,2025-05-20,Male,False,Accessories
+869,Headphones,2,67.74,69,Houston,Cash,2025-05-20,Female,False,Accessories
+966,Headphones,2,485.99,45,Houston,Debit Card,2025-05-21,Male,False,Accessories
+838,Mouse,1,39.82,31,Phoenix,Cash,2025-05-22,Female,False,Accessories
+871,Microphone,2,266.03,69,Phoenix,Debit Card,2025-05-22,Female,False,Audio
+533,Laptop,1,445.02,56,Philadelphia,Cash,2025-05-22,Female,False,Electronics
+515,Microphone,2,107.85,65,Philadelphia,Debit Card,2025-05-23,Male,False,Audio
+807,Webcam,1,157.31,40,Phoenix,Credit Card,2025-05-24,Male,False,Accessories
+565,Keyboard,2,45.17,18,Philadelphia,Debit Card,2025-05-24,Female,False,Accessories
+688,Mouse,1,70.41,51,Houston,Online Transfer,2025-05-25,Male,False,Accessories
+523,Laptop,1,252.91,29,Houston,Debit Card,2025-05-27,Female,True,Electronics
+691,Webcam,2,439.27,23,Philadelphia,Debit Card,2025-05-28,Male,False,Accessories
+549,Webcam,2,166.05,65,Houston,Debit Card,2025-05-28,Female,False,Accessories
+774,Speaker,2,78.84,20,Philadelphia,Debit Card,2025-05-28,Male,False,Audio
+863,Laptop,1,363.75,58,Phoenix,Credit Card,2025-05-29,Female,False,Electronics
+707,Monitor,2,493.48,33,Houston,Online Transfer,2025-05-29,Male,True,Electronics
+661,Monitor,2,166.66,37,Houston,Online Transfer,2025-05-30,Male,False,Electronics
+710,Webcam,2,354.41,46,Houston,Debit Card,2025-05-31,Male,True,Accessories
+803,Speaker,1,288.55,40,Houston,Credit Card,2025-05-31,Male,False,Audio
+765,Webcam,2,412.19,65,Phoenix,Online Transfer,2025-05-31,Male,False,Accessories
+829,Keyboard,1,136.65,60,Phoenix,Debit Card,2025-05-31,Male,False,Accessories
+993,Keyboard,1,249.37,27,Houston,Credit Card,2025-06-03,Male,False,Accessories
+922,Keyboard,1,139.71,24,Phoenix,Cash,2025-06-04,Male,False,Accessories
+745,Headphones,2,447.82,66,Phoenix,Online Transfer,2025-06-04,Female,False,Accessories
+818,Webcam,2,191.46,56,Phoenix,Cash,2025-06-04,Male,False,Accessories
+929,Laptop,2,430.89,49,Philadelphia,Online Transfer,2025-06-05,Female,False,Electronics
+850,Speaker,2,272.74,21,Philadelphia,Debit Card,2025-06-05,Male,True,Audio
+728,Webcam,1,374.85,30,Philadelphia,Online Transfer,2025-06-10,Female,False,Accessories
+502,Keyboard,2,344.68,50,Phoenix,Credit Card,2025-06-11,Male,False,Accessories
+744,Mouse,1,415.04,69,Philadelphia,Credit Card,2025-06-12,Female,False,Accessories
+931,Webcam,1,71.99,21,Phoenix,Debit Card,2025-06-13,Female,False,Accessories
+944,Monitor,1,462.81,24,Philadelphia,Online Transfer,2025-06-13,Female,False,Electronics
+810,Speaker,1,153.91,22,Philadelphia,Online Transfer,2025-06-15,Male,False,Audio
+637,Laptop,2,484.84,35,Phoenix,Cash,2025-06-16,Female,False,Electronics
+570,Laptop,1,271.43,18,Phoenix,Debit Card,2025-06-16,Female,False,Electronics
+933,Laptop,1,212.75,60,Phoenix,Online Transfer,2025-06-16,Male,True,Electronics
+913,Headphones,1,331.05,26,Phoenix,Cash,2025-06-16,Male,False,Accessories
+657,Laptop,2,349.35,38,Philadelphia,Online Transfer,2025-06-16,Female,False,Electronics
+504,Keyboard,2,332.39,24,Phoenix,Credit Card,2025-06-17,Male,False,Accessories
+976,Laptop,2,170.86,28,Philadelphia,Credit Card,2025-06-17,Female,False,Electronics
+718,Mouse,1,186.2,41,Houston,Online Transfer,2025-06-18,Female,False,Accessories
+574,Headphones,1,218.33,66,Houston,Debit Card,2025-06-18,Female,False,Accessories
+776,Headphones,2,59.6,45,Houston,Debit Card,2025-06-18,Female,False,Accessories
+768,Laptop,1,284.08,23,Philadelphia,Debit Card,2025-06-18,Female,True,Electronics
+509,Webcam,2,495.08,45,Houston,Credit Card,2025-06-18,Female,False,Accessories
+587,Speaker,1,176.17,28,Phoenix,Online Transfer,2025-06-18,Female,False,Audio
+912,Webcam,2,468.74,61,Philadelphia,Cash,2025-06-20,Male,True,Accessories
+737,Headphones,1,176.22,39,Philadelphia,Online Transfer,2025-06-20,Female,False,Accessories
+527,Keyboard,1,236.55,60,Houston,Cash,2025-06-20,Female,False,Accessories
+712,Headphones,1,225.47,28,Houston,Online Transfer,2025-06-20,Female,False,Accessories
+537,Headphones,2,433.03,41,Philadelphia,Debit Card,2025-06-20,Male,False,Accessories
+800,Keyboard,1,441.35,40,Phoenix,Debit Card,2025-06-21,Male,False,Accessories
+930,Mouse,2,328.11,59,Phoenix,Cash,2025-06-22,Female,True,Accessories
+866,Speaker,2,175.47,27,Philadelphia,Credit Card,2025-06-25,Female,False,Audio
+543,Speaker,1,43.26,47,Philadelphia,Online Transfer,2025-06-25,Female,False,Audio
+679,Keyboard,1,245.63,38,Philadelphia,Credit Card,2025-06-27,Male,True,Accessories
+698,Monitor,1,256.97,35,Houston,Debit Card,2025-06-27,Female,False,Electronics
+798,Microphone,2,244.5,40,Phoenix,Cash,2025-06-27,Female,False,Audio
+622,Microphone,2,165.38,61,Phoenix,Credit Card,2025-06-27,Female,False,Audio
+898,Speaker,1,428.21,21,Philadelphia,Debit Card,2025-06-28,Male,False,Audio
+937,Webcam,2,95.46,58,Phoenix,Cash,2025-06-28,Female,False,Accessories
+762,Keyboard,1,306.82,51,Philadelphia,Credit Card,2025-06-28,Male,False,Accessories
+900,Microphone,1,291.71,61,Houston,Online Transfer,2025-06-29,Male,False,Audio
+955,Headphones,2,45.85,34,Houston,Debit Card,2025-06-29,Male,False,Accessories
+833,Mouse,2,415.02,62,Houston,Online Transfer,2025-06-29,Female,False,Accessories
+897,Laptop,1,134.99,43,Philadelphia,Cash,2025-07-01,Male,False,Electronics
+526,Headphones,1,437.9,35,Philadelphia,Online Transfer,2025-07-01,Female,False,Accessories
+875,Microphone,2,121.9,55,Philadelphia,Debit Card,2025-07-01,Female,False,Audio
+867,Mouse,2,287.82,25,Phoenix,Cash,2025-07-02,Male,False,Accessories
+982,Laptop,2,195.62,62,Philadelphia,Cash,2025-07-03,Male,False,Electronics
+717,Microphone,1,273.85,49,Houston,Credit Card,2025-07-03,Female,False,Audio
+539,Speaker,2,10.32,39,Phoenix,Credit Card,2025-07-03,Male,False,Audio
+828,Webcam,1,300.65,53,Houston,Online Transfer,2025-07-03,Male,True,Accessories
+868,Microphone,1,238.17,56,Philadelphia,Online Transfer,2025-07-04,Male,False,Audio
+957,Speaker,2,180.47,65,Phoenix,Online Transfer,2025-07-04,Female,False,Audio
+652,Monitor,1,322.71,42,Philadelphia,Cash,2025-07-05,Female,False,Electronics
+919,Webcam,1,440.67,49,Philadelphia,Online Transfer,2025-07-06,Male,False,Accessories
+935,Monitor,2,223.17,45,Philadelphia,Debit Card,2025-07-06,Female,False,Electronics
+785,Microphone,2,320.5,20,Houston,Online Transfer,2025-07-06,Female,False,Audio
+773,Speaker,2,352.35,44,Houston,Credit Card,2025-07-08,Female,False,Audio
+975,Webcam,2,39.41,18,Houston,Online Transfer,2025-07-08,Female,False,Accessories
+701,Speaker,1,83.47,45,Houston,Online Transfer,2025-07-08,Female,False,Audio
+794,Webcam,2,309.66,43,Phoenix,Credit Card,2025-07-09,Female,False,Accessories
+726,Webcam,1,27.36,28,Houston,Cash,2025-07-09,Male,False,Accessories
+619,Webcam,1,43.23,22,Houston,Credit Card,2025-07-09,Male,False,Accessories
+923,Webcam,1,141.84,44,Phoenix,Debit Card,2025-07-12,Female,False,Accessories
+603,Webcam,1,67.41,32,Phoenix,Cash,2025-07-13,Female,False,Accessories
+917,Webcam,1,145.72,53,Houston,Debit Card,2025-07-13,Male,False,Accessories
+683,Laptop,1,166.6,25,Houston,Cash,2025-07-14,Female,False,Electronics
+983,Laptop,1,288.78,58,Philadelphia,Online Transfer,2025-07-14,Female,False,Electronics
+647,Mouse,1,171.16,40,Houston,Credit Card,2025-07-15,Male,False,Accessories
+506,Webcam,2,345.92,40,Houston,Debit Card,2025-07-15,Female,False,Accessories
+542,Monitor,2,332.72,23,Philadelphia,Credit Card,2025-07-16,Female,False,Electronics
+705,Laptop,2,451.08,48,Houston,Credit Card,2025-07-17,Female,False,Electronics
+824,Webcam,2,142.19,57,Houston,Debit Card,2025-07-18,Male,False,Accessories
+597,Speaker,2,103.77,30,Philadelphia,Cash,2025-07-18,Female,False,Audio
+645,Microphone,2,320.96,27,Houston,Online Transfer,2025-07-19,Male,True,Audio
+678,Mouse,1,425.68,30,Houston,Online Transfer,2025-07-20,Female,False,Accessories
+856,Speaker,2,329.4,20,Philadelphia,Online Transfer,2025-07-22,Female,False,Audio
+693,Speaker,2,474.69,35,Houston,Credit Card,2025-07-23,Female,False,Audio
+658,Laptop,2,483.42,25,Phoenix,Credit Card,2025-07-25,Female,True,Electronics
+787,Keyboard,2,34.45,56,Philadelphia,Credit Card,2025-07-26,Male,False,Accessories
+960,Keyboard,1,273.15,48,Philadelphia,Debit Card,2025-07-26,Female,False,Accessories
+858,Speaker,2,389.49,69,Phoenix,Debit Card,2025-07-27,Male,False,Audio
+555,Microphone,1,117.1,26,Phoenix,Online Transfer,2025-07-28,Male,False,Audio
+545,Keyboard,2,438.29,44,Phoenix,Cash,2025-07-28,Female,False,Accessories
+525,Monitor,2,389.91,51,Houston,Online Transfer,2025-07-29,Female,False,Electronics
+694,Laptop,2,65.71,20,Philadelphia,Online Transfer,2025-07-29,Male,False,Electronics
+588,Headphones,1,248.31,53,Philadelphia,Online Transfer,2025-07-30,Male,False,Accessories
+697,Mouse,1,449.62,60,Philadelphia,Debit Card,2025-07-30,Male,False,Accessories
+614,Microphone,1,425.33,65,Phoenix,Credit Card,2025-07-30,Male,False,Audio
+624,Keyboard,2,32.26,44,Houston,Online Transfer,2025-07-30,Male,False,Accessories
+841,Microphone,1,115.37,29,Philadelphia,Debit Card,2025-07-31,Male,False,Audio
+812,Laptop,1,205.38,55,Philadelphia,Credit Card,2025-08-01,Female,False,Electronics
+675,Mouse,1,42.14,63,Phoenix,Debit Card,2025-08-02,Male,False,Accessories
+601,Laptop,2,287.97,28,Philadelphia,Online Transfer,2025-08-02,Male,False,Electronics
+884,Speaker,1,303.5,20,Houston,Cash,2025-08-02,Female,True,Audio
+989,Monitor,2,177.57,59,Philadelphia,Debit Card,2025-08-03,Male,False,Electronics
+501,Microphone,1,296.76,52,Phoenix,Credit Card,2025-08-03,Female,True,Audio
+606,Speaker,2,164.35,29,Philadelphia,Credit Card,2025-08-03,Female,False,Audio
+518,Microphone,1,411.74,19,Philadelphia,Online Transfer,2025-08-03,Female,True,Audio
+727,Keyboard,1,55.56,49,Phoenix,Debit Card,2025-08-04,Male,False,Accessories
+953,Speaker,1,425.84,39,Philadelphia,Cash,2025-08-04,Female,False,Audio
+885,Monitor,1,198.2,52,Phoenix,Debit Card,2025-08-05,Female,False,Electronics
+649,Speaker,1,81.45,63,Houston,Online Transfer,2025-08-05,Male,False,Audio
+677,Microphone,2,87.95,59,Philadelphia,Debit Card,2025-08-06,Male,False,Audio
+757,Webcam,2,333.02,40,Phoenix,Cash,2025-08-07,Female,False,Accessories
+927,Speaker,2,485.67,62,Phoenix,Credit Card,2025-08-08,Male,True,Audio
+581,Microphone,2,77.78,22,Philadelphia,Cash,2025-08-09,Female,False,Audio
+563,Speaker,1,285.12,58,Houston,Online Transfer,2025-08-09,Male,False,Audio
+911,Monitor,2,194.62,50,Houston,Online Transfer,2025-08-09,Male,False,Electronics
+849,Keyboard,1,48.85,21,Philadelphia,Online Transfer,2025-08-09,Male,False,Accessories
+811,Laptop,1,328.49,30,Houston,Credit Card,2025-08-11,Male,False,Electronics
+852,Microphone,1,311.23,56,Phoenix,Cash,2025-08-12,Male,False,Audio
+632,Laptop,2,305.08,27,Houston,Credit Card,2025-08-12,Male,False,Electronics
+865,Laptop,1,251.15,20,Philadelphia,Cash,2025-08-13,Female,False,Electronics
+981,Laptop,2,332.19,22,Philadelphia,Debit Card,2025-08-13,Female,False,Electronics
+604,Microphone,2,82.81,18,Phoenix,Online Transfer,2025-08-14,Male,False,Audio
+618,Monitor,2,473.02,62,Houston,Cash,2025-08-15,Male,False,Electronics
+513,Webcam,2,190.01,64,Philadelphia,Credit Card,2025-08-16,Female,False,Accessories
+879,Microphone,2,246.05,62,Houston,Online Transfer,2025-08-16,Female,False,Audio
+556,Headphones,1,124.29,48,Phoenix,Cash,2025-08-16,Female,True,Accessories
+630,Keyboard,1,97.59,44,Phoenix,Debit Card,2025-08-17,Female,False,Accessories
+876,Speaker,2,452.39,66,Philadelphia,Cash,2025-08-17,Male,False,Audio
+514,Headphones,1,301.03,40,Philadelphia,Cash,2025-08-18,Female,False,Accessories
+980,Headphones,1,454.13,29,Philadelphia,Online Transfer,2025-08-18,Male,False,Accessories
+997,Monitor,1,280.86,20,Philadelphia,Debit Card,2025-08-19,Male,False,Electronics
+576,Microphone,2,144.53,26,Houston,Credit Card,2025-08-20,Male,False,Audio
+789,Keyboard,2,272.11,26,Phoenix,Credit Card,2025-08-21,Male,False,Accessories
+924,Microphone,1,131.27,64,Houston,Credit Card,2025-08-22,Female,False,Audio
+696,Microphone,2,43.54,25,Houston,Online Transfer,2025-08-22,Male,False,Audio
+815,Microphone,2,356.95,57,Houston,Debit Card,2025-08-24,Male,False,Audio
+596,Monitor,2,490.99,67,Philadelphia,Cash,2025-08-24,Male,False,Electronics
+969,Microphone,2,436.39,65,Philadelphia,Online Transfer,2025-08-25,Male,False,Audio
+972,Mouse,2,392.91,68,Philadelphia,Debit Card,2025-08-25,Male,False,Accessories
+713,Mouse,1,230.62,18,Houston,Credit Card,2025-08-25,Female,False,Accessories
+943,Speaker,1,67.37,35,Phoenix,Cash,2025-08-26,Female,False,Audio
+551,Monitor,1,218.3,69,Houston,Cash,2025-08-26,Female,False,Electronics
+552,Headphones,1,100.51,28,Houston,Cash,2025-08-26,Female,False,Accessories
+918,Mouse,2,104.35,61,Houston,Debit Card,2025-08-27,Male,False,Accessories
+977,Headphones,2,151.81,56,Houston,Online Transfer,2025-08-28,Female,False,Accessories
+882,Laptop,2,164.48,19,Philadelphia,Debit Card,2025-08-28,Male,False,Electronics
+837,Headphones,2,128.61,42,Houston,Debit Card,2025-08-29,Male,False,Accessories
+756,Webcam,2,188.29,27,Phoenix,Debit Card,2025-08-30,Male,False,Accessories
+874,Monitor,2,235.94,37,Philadelphia,Credit Card,2025-08-31,Male,False,Electronics
+650,Monitor,2,466.66,69,Philadelphia,Debit Card,2025-08-31,Female,False,Electronics
+634,Headphones,2,354.85,26,Philadelphia,Online Transfer,2025-09-02,Male,False,Accessories
+742,Mouse,1,147.41,29,Phoenix,Online Transfer,2025-09-03,Female,False,Accessories
+670,Headphones,2,195.06,36,Philadelphia,Online Transfer,2025-09-05,Female,False,Accessories
+895,Microphone,1,26.5,33,Philadelphia,Cash,2025-09-06,Male,False,Audio
+687,Webcam,1,95.87,57,Houston,Credit Card,2025-09-07,Female,False,Accessories
+736,Microphone,1,90.51,67,Philadelphia,Debit Card,2025-09-07,Female,False,Audio
+755,Webcam,1,470.74,24,Philadelphia,Debit Card,2025-09-07,Female,True,Accessories
+942,Monitor,1,290.53,24,Philadelphia,Online Transfer,2025-09-10,Female,False,Electronics
+959,Mouse,2,83.25,37,Philadelphia,Cash,2025-09-11,Female,False,Accessories
+870,Webcam,2,131.81,39,Houston,Credit Card,2025-09-11,Female,False,Accessories
+608,Mouse,1,351.59,66,Houston,Debit Card,2025-09-12,Female,False,Accessories
+644,Headphones,2,49.3,32,Houston,Online Transfer,2025-09-14,Female,False,Accessories
+564,Monitor,1,96.9,20,Phoenix,Cash,2025-09-14,Male,False,Electronics
+507,Speaker,2,164.34,21,Philadelphia,Debit Card,2025-09-15,Male,True,Audio
+961,Speaker,1,419.03,48,Houston,Debit Card,2025-09-15,Female,False,Audio
+945,Microphone,2,70.7,41,Houston,Credit Card,2025-09-15,Male,False,Audio
+730,Speaker,2,93.25,55,Phoenix,Online Transfer,2025-09-16,Female,False,Audio
+950,Keyboard,2,166.49,35,Houston,Online Transfer,2025-09-16,Male,False,Accessories
+667,Laptop,1,383.51,32,Houston,Credit Card,2025-09-16,Female,False,Electronics
+753,Mouse,1,177.84,67,Houston,Online Transfer,2025-09-16,Male,False,Accessories
+861,Mouse,2,42.06,37,Philadelphia,Credit Card,2025-09-17,Male,False,Accessories
+536,Microphone,2,457.36,29,Phoenix,Debit Card,2025-09-17,Female,False,Audio
+566,Keyboard,1,302.87,20,Philadelphia,Online Transfer,2025-09-18,Male,True,Accessories
+761,Keyboard,2,306.9,46,Phoenix,Online Transfer,2025-09-19,Male,False,Accessories
+814,Webcam,2,441.14,45,Philadelphia,Debit Card,2025-09-20,Male,False,Accessories
+834,Monitor,1,340.31,59,Philadelphia,Credit Card,2025-09-21,Male,True,Electronics
+877,Mouse,2,187.49,24,Houston,Online Transfer,2025-09-22,Male,False,Accessories
+600,Headphones,2,268.73,47,Houston,Credit Card,2025-09-22,Male,False,Accessories
+665,Mouse,2,423.41,24,Philadelphia,Cash,2025-09-22,Male,False,Accessories
+731,Monitor,1,399.34,27,Philadelphia,Online Transfer,2025-09-22,Female,False,Electronics
+735,Keyboard,1,187.6,21,Phoenix,Debit Card,2025-09-22,Female,False,Accessories
+790,Laptop,2,213.81,26,Houston,Credit Card,2025-09-25,Female,True,Electronics
+623,Keyboard,2,174.07,47,Phoenix,Debit Card,2025-09-25,Male,False,Accessories
+920,Microphone,2,235.92,30,Philadelphia,Online Transfer,2025-09-26,Female,False,Audio
+778,Laptop,1,95.68,40,Houston,Online Transfer,2025-09-26,Female,False,Electronics
+662,Keyboard,1,135.51,29,Phoenix,Debit Card,2025-09-28,Male,True,Accessories
+843,Keyboard,2,418.65,41,Philadelphia,Cash,2025-09-29,Male,False,Accessories
+799,Mouse,2,389.01,55,Houston,Cash,2025-09-29,Male,False,Accessories
+872,Monitor,1,89.38,23,Philadelphia,Debit Card,2025-09-30,Female,False,Electronics
+894,Monitor,2,281.83,29,Phoenix,Credit Card,2025-09-30,Female,False,Electronics
+891,Webcam,2,18.66,68,Phoenix,Credit Card,2025-09-30,Male,False,Accessories
+631,Headphones,2,454.01,58,Houston,Debit Card,2025-09-30,Female,False,Accessories
+573,Mouse,2,383.6,69,Phoenix,Online Transfer,2025-10-01,Male,False,Accessories
+520,Keyboard,1,357.63,22,Phoenix,Debit Card,2025-10-01,Male,False,Accessories
+672,Speaker,1,178.99,46,Philadelphia,Online Transfer,2025-10-01,Female,False,Audio
+602,Mouse,2,462.22,45,Philadelphia,Cash,2025-10-02,Female,False,Accessories
+990,Headphones,2,75.77,54,Phoenix,Credit Card,2025-10-02,Male,False,Accessories
+791,Speaker,2,364.02,21,Phoenix,Debit Card,2025-10-02,Female,False,Audio
+739,Mouse,2,110.01,46,Houston,Credit Card,2025-10-04,Male,False,Accessories
+636,Monitor,2,190.55,22,Phoenix,Cash,2025-10-05,Female,False,Electronics
+760,Webcam,2,213.35,21,Houston,Online Transfer,2025-10-05,Female,False,Accessories
+978,Webcam,2,106.58,67,Houston,Credit Card,2025-10-06,Female,False,Accessories
+582,Headphones,1,188.34,25,Philadelphia,Debit Card,2025-10-06,Female,False,Accessories
+638,Microphone,2,56.27,33,Phoenix,Online Transfer,2025-10-06,Male,True,Audio
+817,Mouse,1,58.95,60,Philadelphia,Cash,2025-10-06,Male,False,Accessories
+956,Mouse,2,137.08,56,Philadelphia,Credit Card,2025-10-06,Male,False,Accessories
+530,Headphones,1,421.45,22,Houston,Credit Card,2025-10-06,Male,False,Accessories
+893,Mouse,1,400.12,57,Houston,Debit Card,2025-10-06,Female,True,Accessories
+766,Keyboard,1,192.11,69,Houston,Credit Card,2025-10-06,Female,False,Accessories
+994,Laptop,2,267.27,22,Philadelphia,Online Transfer,2025-10-07,Male,False,Electronics
+643,Microphone,2,497.28,41,Phoenix,Credit Card,2025-10-08,Female,False,Audio
+859,Microphone,2,436.99,56,Houston,Online Transfer,2025-10-08,Male,True,Audio
+547,Mouse,1,130.68,68,Phoenix,Cash,2025-10-09,Female,False,Accessories
+639,Headphones,2,328.4,36,Phoenix,Credit Card,2025-10-10,Male,False,Accessories
+505,Keyboard,1,451.9,69,Houston,Credit Card,2025-10-11,Female,False,Accessories
+796,Speaker,1,188.19,31,Philadelphia,Cash,2025-10-11,Male,True,Audio
+979,Keyboard,1,49.51,30,Phoenix,Cash,2025-10-14,Male,False,Accessories
+964,Headphones,1,431.96,60,Philadelphia,Online Transfer,2025-10-15,Female,False,Accessories
+938,Keyboard,1,344.52,48,Philadelphia,Credit Card,2025-10-15,Female,False,Accessories
+554,Laptop,1,382.42,63,Philadelphia,Debit Card,2025-10-15,Male,False,Electronics
+832,Speaker,2,399.61,63,Philadelphia,Debit Card,2025-10-15,Male,False,Audio
+544,Keyboard,1,349.02,27,Philadelphia,Debit Card,2025-10-16,Male,False,Accessories
+991,Mouse,1,296.68,44,Phoenix,Credit Card,2025-10-16,Female,False,Accessories
+970,Microphone,2,403.82,52,Philadelphia,Cash,2025-10-16,Male,False,Audio
+532,Webcam,1,333.9,37,Houston,Online Transfer,2025-10-17,Female,False,Accessories
+598,Mouse,1,192.94,61,Phoenix,Cash,2025-10-17,Male,False,Accessories
+908,Mouse,1,162.81,35,Philadelphia,Cash,2025-10-17,Male,False,Accessories
+567,Keyboard,1,302.81,36,Phoenix,Debit Card,2025-10-17,Male,False,Accessories
+857,Laptop,2,455.6,65,Philadelphia,Cash,2025-10-18,Female,False,Electronics
+605,Keyboard,2,484.39,50,Houston,Credit Card,2025-10-21,Male,False,Accessories
+892,Mouse,1,36.23,51,Phoenix,Debit Card,2025-10-21,Male,False,Accessories
+1000,Microphone,2,139.7,68,Phoenix,Debit Card,2025-10-22,Female,False,Audio
+784,Microphone,2,285.96,52,Houston,Credit Card,2025-10-24,Male,False,Audio
+724,Monitor,2,412.66,23,Philadelphia,Debit Card,2025-10-25,Female,False,Electronics
+902,Mouse,2,57.51,44,Phoenix,Cash,2025-10-26,Female,False,Accessories
+775,Webcam,1,118.58,65,Philadelphia,Online Transfer,2025-10-27,Female,False,Accessories
+699,Monitor,1,366.17,46,Philadelphia,Cash,2025-10-30,Female,False,Electronics
+616,Speaker,1,337.8,36,Phoenix,Debit Card,2025-10-31,Female,False,Audio
+87,Monitor,3,1145.76,48,Chicago,Credit Card,2025-11-02,Female,False,Electronics
+79,Mouse,3,848.13,68,Los Angeles,Credit Card,2025-11-02,Male,True,Accessories
+430,Microphone,5,300.37,35,New York,Credit Card,2025-11-02,Male,False,Audio
+105,Laptop,3,944.01,60,Los Angeles,Cash,2025-11-02,Male,False,Electronics
+265,Laptop,4,675.7,53,Chicago,Credit Card,2025-11-02,Male,False,Electronics
+409,Microphone,5,1035.03,58,Chicago,Online Transfer,2025-11-02,Female,False,Audio
+287,Mouse,2,523.01,41,Chicago,Cash,2025-11-02,Male,False,Accessories
+416,Speaker,5,803.15,53,Chicago,Online Transfer,2025-11-02,Female,True,Audio
+452,Keyboard,5,721.51,40,Los Angeles,Debit Card,2025-11-02,Male,True,Accessories
+487,Webcam,4,187.71,67,New York,Debit Card,2025-11-02,Female,True,Accessories
+190,Speaker,5,466.14,33,New York,Online Transfer,2025-11-02,Female,False,Audio
+202,Keyboard,2,413.12,59,New York,Debit Card,2025-11-02,Female,False,Accessories
+493,Keyboard,4,967.0,60,Los Angeles,Cash,2025-11-02,Female,True,Accessories
+394,Webcam,4,341.91,36,New York,Debit Card,2025-11-02,Female,True,Accessories
+136,Monitor,5,679.83,41,Chicago,Credit Card,2025-11-03,Male,False,Electronics
+417,Microphone,4,756.34,59,New York,Credit Card,2025-11-03,Male,False,Audio
+300,Monitor,2,308.71,51,New York,Online Transfer,2025-11-03,Male,False,Electronics
+60,Keyboard,2,89.0,28,New York,Online Transfer,2025-11-03,Male,False,Accessories
+427,Headphones,4,830.5,45,New York,Debit Card,2025-11-03,Female,True,Accessories
+358,Headphones,5,629.74,20,Chicago,Credit Card,2025-11-03,Male,False,Accessories
+246,Webcam,2,64.46,56,Los Angeles,Credit Card,2025-11-03,Female,True,Accessories
+195,Webcam,5,469.18,52,New York,Online Transfer,2025-11-03,Male,True,Accessories
+24,Speaker,4,543.59,52,Chicago,Credit Card,2025-11-03,Female,True,Audio
+258,Microphone,4,1042.68,34,Los Angeles,Cash,2025-11-03,Female,True,Audio
+341,Laptop,3,353.37,39,Chicago,Online Transfer,2025-11-03,Female,True,Electronics
+203,Keyboard,3,579.82,21,Chicago,Online Transfer,2025-11-03,Male,False,Accessories
+104,Laptop,5,587.89,54,Los Angeles,Credit Card,2025-11-03,Female,True,Electronics
+464,Monitor,4,289.64,32,New York,Cash,2025-11-03,Male,True,Electronics
+314,Monitor,2,1088.96,58,Los Angeles,Cash,2025-11-03,Male,False,Electronics
+33,Headphones,5,350.42,24,Los Angeles,Cash,2025-11-04,Male,False,Accessories
+387,Mouse,5,662.85,58,Chicago,Online Transfer,2025-11-04,Male,True,Accessories
+367,Laptop,2,467.37,21,Los Angeles,Credit Card,2025-11-04,Male,False,Electronics
+327,Mouse,3,324.3,37,New York,Online Transfer,2025-11-04,Female,False,Accessories
+368,Headphones,3,374.01,41,New York,Online Transfer,2025-11-04,Female,True,Accessories
+26,Webcam,5,709.79,47,Chicago,Cash,2025-11-04,Female,False,Accessories
+431,Laptop,4,676.12,25,Chicago,Credit Card,2025-11-04,Female,False,Electronics
+477,Webcam,3,164.55,53,Chicago,Credit Card,2025-11-04,Female,False,Accessories
+418,Speaker,4,983.01,47,Los Angeles,Credit Card,2025-11-04,Male,False,Audio
+263,Mouse,4,237.14,49,New York,Debit Card,2025-11-04,Male,False,Accessories
+169,Speaker,2,183.81,53,Los Angeles,Online Transfer,2025-11-04,Female,False,Audio
+181,Laptop,4,866.39,68,Chicago,Cash,2025-11-04,Male,False,Electronics
+228,Mouse,5,299.2,36,New York,Cash,2025-11-04,Female,False,Accessories
+219,Headphones,5,1085.95,62,New York,Cash,2025-11-04,Female,True,Accessories
+122,Laptop,5,532.01,33,Los Angeles,Credit Card,2025-11-04,Female,False,Electronics
+281,Keyboard,5,313.78,69,Chicago,Online Transfer,2025-11-04,Female,False,Accessories
+140,Monitor,3,502.15,29,New York,Debit Card,2025-11-04,Male,False,Electronics
+53,Webcam,3,241.48,54,New York,Online Transfer,2025-11-05,Male,True,Accessories
+378,Mouse,4,1075.9,33,New York,Debit Card,2025-11-05,Female,True,Accessories
+151,Speaker,3,86.12,47,Chicago,Cash,2025-11-05,Male,False,Audio
+357,Speaker,5,487.08,52,New York,Cash,2025-11-05,Male,False,Audio
+20,Monitor,4,1113.26,18,New York,Cash,2025-11-05,Female,False,Electronics
+352,Speaker,3,459.53,32,New York,Cash,2025-11-05,Male,False,Audio
+392,Laptop,3,167.5,32,New York,Credit Card,2025-11-05,Male,False,Electronics
+196,Headphones,2,558.28,67,Los Angeles,Cash,2025-11-05,Male,False,Accessories
+458,Webcam,2,797.03,24,Los Angeles,Cash,2025-11-05,Female,True,Accessories
+448,Speaker,2,405.63,60,Chicago,Debit Card,2025-11-05,Female,False,Audio
+106,Webcam,2,210.69,31,New York,Credit Card,2025-11-05,Male,False,Accessories
+250,Laptop,2,714.13,54,Los Angeles,Credit Card,2025-11-05,Male,True,Electronics
+420,Webcam,2,1075.09,22,Chicago,Debit Card,2025-11-05,Female,False,Accessories
+54,Keyboard,4,980.27,31,New York,Cash,2025-11-05,Female,False,Accessories
+410,Speaker,2,374.35,57,Chicago,Cash,2025-11-05,Male,False,Audio
+145,Mouse,5,982.6,42,New York,Debit Card,2025-11-05,Male,False,Accessories
+478,Webcam,5,702.3,49,Chicago,Online Transfer,2025-11-05,Female,False,Accessories
+500,Mouse,2,992.49,29,New York,Debit Card,2025-11-06,Male,False,Accessories
+210,Speaker,2,1117.43,54,Los Angeles,Credit Card,2025-11-06,Female,False,Audio
+234,Webcam,3,891.89,55,Los Angeles,Debit Card,2025-11-06,Female,False,Accessories
+459,Webcam,3,963.25,45,Los Angeles,Credit Card,2025-11-06,Female,False,Accessories
+242,Speaker,4,162.34,55,Chicago,Credit Card,2025-11-06,Female,False,Audio
+198,Microphone,3,852.28,32,Chicago,Debit Card,2025-11-06,Male,False,Audio
+102,Laptop,3,874.57,50,Chicago,Online Transfer,2025-11-06,Female,False,Electronics
+57,Microphone,5,77.88,23,Chicago,Online Transfer,2025-11-06,Female,False,Audio
+309,Monitor,5,1063.36,65,New York,Debit Card,2025-11-06,Female,False,Electronics
+362,Laptop,2,485.29,18,Los Angeles,Debit Card,2025-11-06,Female,False,Electronics
+269,Monitor,2,253.29,22,Chicago,Online Transfer,2025-11-06,Female,False,Electronics
+23,Mouse,3,165.61,57,New York,Online Transfer,2025-11-06,Male,False,Accessories
+73,Microphone,2,995.3,49,Los Angeles,Credit Card,2025-11-06,Male,True,Audio
+371,Monitor,5,854.81,26,Los Angeles,Credit Card,2025-11-06,Male,False,Electronics
+16,Keyboard,5,96.96,39,Chicago,Cash,2025-11-06,Male,False,Accessories
+304,Mouse,2,478.99,64,Chicago,Online Transfer,2025-11-06,Male,False,Accessories
+383,Webcam,3,1035.22,51,Chicago,Online Transfer,2025-11-06,Female,False,Accessories
+120,Speaker,5,1082.43,26,Los Angeles,Debit Card,2025-11-06,Male,True,Audio
+396,Headphones,5,1091.75,31,Chicago,Cash,2025-11-07,Female,False,Accessories
+497,Headphones,2,799.23,64,Los Angeles,Cash,2025-11-07,Female,True,Accessories
+339,Webcam,5,179.23,58,Chicago,Debit Card,2025-11-07,Male,False,Accessories
+206,Speaker,4,1071.06,66,Chicago,Credit Card,2025-11-07,Male,False,Audio
+377,Webcam,2,505.93,49,Los Angeles,Debit Card,2025-11-07,Male,False,Accessories
+348,Headphones,4,1157.46,20,Chicago,Debit Card,2025-11-07,Female,True,Accessories
+494,Headphones,4,423.32,39,Los Angeles,Online Transfer,2025-11-07,Female,False,Accessories
+99,Webcam,3,544.49,28,Chicago,Debit Card,2025-11-07,Male,False,Accessories
+354,Mouse,2,666.06,25,Chicago,Debit Card,2025-11-07,Male,False,Accessories
+310,Headphones,3,681.21,57,Los Angeles,Online Transfer,2025-11-07,Male,False,Accessories
+372,Monitor,2,277.28,66,New York,Credit Card,2025-11-07,Male,True,Electronics
+312,Monitor,5,1014.8,57,Chicago,Online Transfer,2025-11-07,Male,True,Electronics
+419,Headphones,5,600.03,52,New York,Online Transfer,2025-11-07,Female,True,Accessories
+326,Headphones,4,836.07,64,Los Angeles,Online Transfer,2025-11-07,Female,False,Accessories
+359,Speaker,2,72.02,47,New York,Online Transfer,2025-11-07,Female,False,Audio
+423,Speaker,2,296.41,47,New York,Debit Card,2025-11-08,Male,True,Audio
+180,Webcam,2,940.42,48,Los Angeles,Credit Card,2025-11-08,Male,True,Accessories
+403,Monitor,2,905.34,18,New York,Cash,2025-11-08,Male,False,Electronics
+414,Webcam,3,1189.17,66,Los Angeles,Debit Card,2025-11-08,Male,True,Accessories
+156,Mouse,3,393.21,60,New York,Cash,2025-11-08,Female,False,Accessories
+330,Speaker,2,740.49,55,Los Angeles,Cash,2025-11-08,Male,True,Audio
+179,Headphones,5,874.48,21,New York,Debit Card,2025-11-08,Female,False,Accessories
+164,Monitor,2,668.76,39,Los Angeles,Debit Card,2025-11-08,Female,False,Electronics
+244,Keyboard,5,380.71,57,Los Angeles,Cash,2025-11-08,Female,False,Accessories
+154,Microphone,4,107.0,23,Chicago,Online Transfer,2025-11-08,Male,False,Audio
+280,Mouse,5,141.75,20,New York,Credit Card,2025-11-08,Male,False,Accessories
+306,Microphone,2,62.28,35,New York,Debit Card,2025-11-08,Male,True,Audio
+37,Webcam,2,243.71,42,Chicago,Online Transfer,2025-11-08,Female,True,Accessories
+253,Mouse,4,832.56,20,Los Angeles,Credit Card,2025-11-08,Female,False,Accessories
+65,Webcam,5,863.97,19,New York,Cash,2025-11-08,Male,False,Accessories
+67,Monitor,3,932.28,63,Los Angeles,Online Transfer,2025-11-08,Male,False,Electronics
+245,Headphones,3,1009.14,52,Los Angeles,Online Transfer,2025-11-08,Male,False,Accessories
+2,Webcam,2,355.85,18,New York,Credit Card,2025-11-08,Female,False,Accessories
+496,Laptop,3,1113.5,37,New York,Credit Card,2025-11-08,Male,False,Electronics
+288,Webcam,3,292.66,29,New York,Debit Card,2025-11-08,Male,False,Accessories
+71,Headphones,2,192.45,37,New York,Online Transfer,2025-11-08,Female,False,Accessories
+301,Laptop,5,1193.86,61,Los Angeles,Credit Card,2025-11-09,Female,False,Electronics
+124,Laptop,5,1022.13,59,New York,Credit Card,2025-11-09,Male,True,Electronics
+18,Keyboard,4,310.44,25,New York,Debit Card,2025-11-09,Female,False,Accessories
+232,Speaker,2,242.93,24,Chicago,Credit Card,2025-11-09,Female,False,Audio
+167,Keyboard,4,1000.93,23,New York,Credit Card,2025-11-09,Female,False,Accessories
+30,Microphone,4,346.18,61,Los Angeles,Cash,2025-11-09,Male,False,Audio
+296,Speaker,3,418.86,33,New York,Credit Card,2025-11-09,Female,True,Audio
+135,Keyboard,2,834.96,20,New York,Cash,2025-11-09,Male,False,Accessories
+236,Webcam,5,122.9,41,Los Angeles,Cash,2025-11-09,Male,False,Accessories
+88,Microphone,5,861.72,68,New York,Online Transfer,2025-11-09,Male,False,Audio
+93,Laptop,5,800.95,62,New York,Cash,2025-11-09,Female,False,Electronics
+200,Headphones,2,1198.57,69,Chicago,Online Transfer,2025-11-09,Male,False,Accessories
+346,Microphone,3,779.45,20,Los Angeles,Cash,2025-11-09,Female,False,Audio
+399,Microphone,5,436.02,21,New York,Debit Card,2025-11-10,Female,False,Audio
+132,Keyboard,5,731.92,22,Los Angeles,Cash,2025-11-10,Female,False,Accessories
+373,Laptop,5,904.74,25,New York,Credit Card,2025-11-10,Female,False,Electronics
+391,Laptop,4,746.07,39,Los Angeles,Credit Card,2025-11-10,Male,True,Electronics
+324,Mouse,4,301.92,67,Chicago,Cash,2025-11-10,Female,False,Accessories
+127,Microphone,4,1030.7,23,Los Angeles,Online Transfer,2025-11-10,Male,False,Audio
+277,Mouse,4,817.04,45,New York,Cash,2025-11-10,Male,False,Accessories
+85,Monitor,3,152.9,38,Los Angeles,Online Transfer,2025-11-10,Female,False,Electronics
+374,Speaker,5,248.88,64,New York,Credit Card,2025-11-10,Male,False,Audio
+68,Laptop,2,572.42,57,Los Angeles,Credit Card,2025-11-10,Male,False,Electronics
+29,Headphones,2,915.64,53,New York,Credit Card,2025-11-10,Female,True,Accessories
+480,Mouse,4,1115.67,25,New York,Debit Card,2025-11-10,Male,False,Accessories
+38,Webcam,3,251.89,38,New York,Online Transfer,2025-11-10,Male,False,Accessories
+209,Headphones,3,770.6,63,Los Angeles,Debit Card,2025-11-10,Male,False,Accessories
+422,Monitor,5,402.34,53,Chicago,Credit Card,2025-11-10,Female,False,Electronics
+225,Keyboard,2,1169.41,43,Los Angeles,Credit Card,2025-11-10,Male,False,Accessories
+96,Microphone,2,529.06,34,Los Angeles,Credit Card,2025-11-10,Female,False,Audio
+197,Webcam,3,367.3,38,Los Angeles,Cash,2025-11-10,Female,False,Accessories
+238,Headphones,4,804.92,27,Chicago,Debit Card,2025-11-10,Female,False,Accessories
+233,Monitor,3,1090.98,55,Los Angeles,Online Transfer,2025-11-11,Female,False,Electronics
+251,Speaker,4,310.46,35,New York,Cash,2025-11-11,Female,False,Audio
+319,Microphone,4,186.94,35,Los Angeles,Cash,2025-11-11,Male,False,Audio
+344,Microphone,4,128.48,56,Chicago,Online Transfer,2025-11-11,Female,False,Audio
+237,Laptop,3,681.3,48,Los Angeles,Debit Card,2025-11-11,Male,False,Electronics
+231,Keyboard,2,615.02,49,New York,Credit Card,2025-11-11,Male,True,Accessories
+163,Webcam,5,731.34,51,Los Angeles,Debit Card,2025-11-11,Male,False,Accessories
+183,Speaker,3,872.61,51,New York,Debit Card,2025-11-11,Male,False,Audio
+134,Monitor,5,624.82,62,Chicago,Debit Card,2025-11-11,Male,True,Electronics
+31,Headphones,5,881.54,23,Los Angeles,Debit Card,2025-11-11,Female,False,Accessories
+389,Keyboard,2,650.18,56,Los Angeles,Cash,2025-11-11,Female,False,Accessories
+94,Microphone,2,544.93,26,New York,Credit Card,2025-11-11,Female,False,Audio
+9,Keyboard,3,245.95,22,New York,Online Transfer,2025-11-11,Male,False,Accessories
+103,Keyboard,4,955.9,40,New York,Cash,2025-11-11,Male,False,Accessories
+445,Keyboard,4,132.99,54,Chicago,Credit Card,2025-11-11,Female,False,Accessories
+74,Laptop,3,628.4,23,Chicago,Debit Card,2025-11-11,Male,False,Electronics
+412,Mouse,5,863.82,53,New York,Online Transfer,2025-11-11,Male,True,Accessories
+454,Speaker,4,1069.71,67,Los Angeles,Debit Card,2025-11-11,Female,False,Audio
+243,Monitor,5,293.62,61,New York,Credit Card,2025-11-12,Female,False,Electronics
+100,Webcam,2,1152.76,30,New York,Cash,2025-11-12,Male,False,Accessories
+413,Monitor,5,114.42,39,Chicago,Cash,2025-11-12,Female,False,Electronics
+62,Mouse,4,971.02,65,Chicago,Debit Card,2025-11-12,Female,False,Accessories
+411,Headphones,4,74.52,35,Los Angeles,Cash,2025-11-12,Male,False,Accessories
+111,Speaker,3,1026.74,46,New York,Debit Card,2025-11-12,Female,False,Audio
+401,Microphone,3,457.36,48,New York,Debit Card,2025-11-12,Female,False,Audio
+201,Microphone,3,780.74,19,Los Angeles,Debit Card,2025-11-12,Male,False,Audio
+17,Microphone,2,211.65,60,Los Angeles,Debit Card,2025-11-12,Male,True,Audio
+381,Headphones,2,197.48,50,Chicago,Online Transfer,2025-11-12,Male,False,Accessories
+332,Microphone,5,1087.48,34,Chicago,Credit Card,2025-11-12,Male,True,Audio
+117,Keyboard,2,215.73,45,New York,Credit Card,2025-11-12,Male,False,Accessories
+353,Headphones,2,476.37,49,Chicago,Cash,2025-11-12,Male,False,Accessories
+428,Microphone,3,586.09,35,Los Angeles,Credit Card,2025-11-13,Male,False,Audio
+91,Microphone,4,147.71,68,Los Angeles,Debit Card,2025-11-13,Male,False,Audio
+84,Keyboard,2,1032.15,57,Chicago,Credit Card,2025-11-13,Female,False,Accessories
+83,Microphone,3,1160.4,19,Los Angeles,Credit Card,2025-11-13,Female,False,Audio
+443,Monitor,3,1171.77,32,New York,Online Transfer,2025-11-13,Female,False,Electronics
+82,Headphones,2,486.99,34,New York,Cash,2025-11-13,Female,True,Accessories
+63,Monitor,4,648.29,62,Los Angeles,Cash,2025-11-13,Male,False,Electronics
+168,Mouse,3,793.28,49,Los Angeles,Online Transfer,2025-11-13,Female,False,Accessories
+131,Headphones,5,1127.28,55,Los Angeles,Debit Card,2025-11-13,Male,False,Accessories
+25,Monitor,5,174.01,26,New York,Cash,2025-11-13,Male,False,Electronics
+22,Mouse,5,1012.56,38,New York,Credit Card,2025-11-13,Male,True,Accessories
+382,Mouse,2,314.29,38,Los Angeles,Credit Card,2025-11-13,Female,False,Accessories
+461,Monitor,2,109.18,44,Los Angeles,Cash,2025-11-13,Male,False,Electronics
+455,Monitor,2,991.59,68,Los Angeles,Cash,2025-11-14,Female,False,Electronics
+476,Laptop,2,1110.58,30,Los Angeles,Credit Card,2025-11-14,Female,False,Electronics
+271,Laptop,2,72.66,46,Los Angeles,Online Transfer,2025-11-14,Female,False,Electronics
+449,Laptop,3,978.93,63,Chicago,Debit Card,2025-11-14,Male,False,Electronics
+331,Mouse,4,1132.04,43,Los Angeles,Cash,2025-11-14,Male,False,Accessories
+11,Mouse,3,1142.18,47,Los Angeles,Cash,2025-11-14,Female,True,Accessories
+388,Laptop,5,1165.07,53,Los Angeles,Debit Card,2025-11-14,Male,True,Electronics
+444,Headphones,2,1000.67,68,Chicago,Cash,2025-11-14,Female,False,Accessories
+170,Speaker,4,63.67,46,Chicago,Online Transfer,2025-11-14,Female,False,Audio
+147,Keyboard,4,148.36,57,Chicago,Debit Card,2025-11-14,Female,False,Accessories
+442,Speaker,2,526.54,45,New York,Credit Card,2025-11-14,Female,False,Audio
+375,Laptop,5,329.81,28,Los Angeles,Debit Card,2025-11-14,Male,True,Electronics
+347,Webcam,4,997.73,39,Chicago,Cash,2025-11-14,Female,False,Accessories
+133,Monitor,3,321.61,56,Chicago,Debit Card,2025-11-14,Female,False,Electronics
+254,Microphone,3,1177.88,54,Chicago,Debit Card,2025-11-15,Male,True,Audio
+370,Headphones,3,650.99,19,New York,Debit Card,2025-11-15,Male,False,Accessories
+398,Speaker,5,866.13,27,Los Angeles,Credit Card,2025-11-15,Female,False,Audio
+226,Keyboard,2,105.7,38,New York,Online Transfer,2025-11-15,Male,False,Accessories
+230,Keyboard,5,871.56,33,New York,Debit Card,2025-11-15,Male,False,Accessories
+10,Webcam,3,968.55,63,New York,Credit Card,2025-11-15,Female,False,Accessories
+157,Keyboard,5,1070.46,40,Los Angeles,Cash,2025-11-15,Female,True,Accessories
+285,Keyboard,4,591.7,47,Los Angeles,Online Transfer,2025-11-15,Female,False,Accessories
+495,Keyboard,5,976.38,66,New York,Debit Card,2025-11-15,Female,False,Accessories
+161,Mouse,4,582.1,56,Los Angeles,Cash,2025-11-15,Female,True,Accessories
+278,Mouse,3,1036.97,37,New York,Cash,2025-11-15,Male,False,Accessories
+55,Keyboard,4,186.6,41,New York,Cash,2025-11-15,Male,False,Accessories
+189,Webcam,2,226.42,51,Chicago,Debit Card,2025-11-15,Male,False,Accessories
+205,Laptop,4,1091.19,37,Los Angeles,Cash,2025-11-15,Male,False,Electronics
+194,Mouse,5,1115.24,28,New York,Credit Card,2025-11-15,Female,False,Accessories
+462,Speaker,5,775.7,41,New York,Credit Card,2025-11-15,Male,True,Audio
+426,Speaker,2,175.83,22,Chicago,Online Transfer,2025-11-15,Female,False,Audio
+76,Keyboard,3,964.15,46,New York,Cash,2025-11-15,Male,False,Accessories
+440,Keyboard,4,513.71,42,Los Angeles,Cash,2025-11-15,Female,False,Accessories
+499,Laptop,3,183.33,45,New York,Debit Card,2025-11-16,Male,False,Electronics
+80,Laptop,2,420.04,56,Los Angeles,Cash,2025-11-16,Female,False,Electronics
+282,Speaker,5,800.54,48,Los Angeles,Cash,2025-11-16,Male,False,Audio
+92,Laptop,2,278.86,58,Chicago,Online Transfer,2025-11-16,Female,True,Electronics
+144,Keyboard,4,244.14,29,Los Angeles,Online Transfer,2025-11-16,Female,False,Accessories
+58,Mouse,5,614.12,31,Chicago,Debit Card,2025-11-16,Female,False,Accessories
+70,Headphones,2,605.65,51,Los Angeles,Credit Card,2025-11-16,Male,False,Accessories
+126,Monitor,5,61.95,45,Chicago,Debit Card,2025-11-16,Female,False,Electronics
+264,Microphone,4,424.92,35,New York,Online Transfer,2025-11-16,Female,False,Audio
+48,Keyboard,4,1029.97,33,New York,Credit Card,2025-11-16,Female,False,Accessories
+72,Headphones,4,1026.34,27,New York,Cash,2025-11-16,Male,False,Accessories
+289,Laptop,2,627.27,19,Chicago,Cash,2025-11-16,Male,False,Electronics
+1,Webcam,4,802.07,56,Chicago,Cash,2025-11-16,Female,False,Accessories
+305,Mouse,4,862.07,29,New York,Online Transfer,2025-11-16,Female,False,Accessories
+379,Mouse,2,723.61,69,Chicago,Cash,2025-11-16,Male,False,Accessories
+485,Speaker,2,865.41,42,New York,Debit Card,2025-11-16,Male,False,Audio
+488,Speaker,2,202.42,48,New York,Online Transfer,2025-11-16,Male,False,Audio
+404,Monitor,4,242.46,64,Los Angeles,Online Transfer,2025-11-16,Male,False,Electronics
+457,Keyboard,5,575.13,47,Chicago,Cash,2025-11-16,Female,False,Accessories
+320,Webcam,4,634.22,27,Chicago,Cash,2025-11-16,Male,False,Accessories
+313,Mouse,3,533.51,41,Los Angeles,Credit Card,2025-11-17,Male,False,Accessories
+465,Mouse,3,772.89,45,Chicago,Online Transfer,2025-11-17,Female,False,Accessories
+467,Keyboard,3,731.72,34,Los Angeles,Cash,2025-11-17,Female,True,Accessories
+267,Speaker,4,525.63,45,New York,Debit Card,2025-11-17,Male,True,Audio
+6,Monitor,2,127.75,35,Chicago,Online Transfer,2025-11-17,Female,True,Electronics
+59,Headphones,5,1186.51,43,Los Angeles,Online Transfer,2025-11-17,Female,False,Accessories
+224,Headphones,3,910.1,40,New York,Online Transfer,2025-11-17,Female,True,Accessories
+439,Webcam,4,599.41,67,New York,Cash,2025-11-17,Male,False,Accessories
+97,Mouse,5,900.58,53,New York,Cash,2025-11-17,Male,True,Accessories
+216,Keyboard,3,757.48,46,New York,Credit Card,2025-11-17,Male,False,Accessories
+268,Headphones,2,703.35,49,Chicago,Debit Card,2025-11-17,Female,False,Accessories
+109,Laptop,4,1088.63,46,Chicago,Debit Card,2025-11-17,Female,False,Electronics
+361,Webcam,2,1050.71,33,Chicago,Credit Card,2025-11-17,Male,False,Accessories
+21,Webcam,5,536.06,61,New York,Cash,2025-11-17,Male,False,Accessories
+279,Laptop,3,299.51,27,Chicago,Credit Card,2025-11-17,Female,False,Electronics
+214,Webcam,2,259.07,39,Los Angeles,Cash,2025-11-17,Male,False,Accessories
+334,Keyboard,3,531.18,63,Chicago,Credit Card,2025-11-17,Female,False,Accessories
+294,Headphones,2,298.18,35,New York,Debit Card,2025-11-17,Female,False,Accessories
+315,Monitor,2,104.3,54,Los Angeles,Debit Card,2025-11-17,Male,False,Electronics
+95,Webcam,2,133.99,41,Los Angeles,Credit Card,2025-11-18,Male,True,Accessories
+116,Keyboard,3,594.23,68,New York,Cash,2025-11-18,Male,False,Accessories
+166,Laptop,2,516.86,19,Los Angeles,Credit Card,2025-11-18,Female,True,Electronics
+155,Webcam,3,249.39,32,New York,Cash,2025-11-18,Male,False,Accessories
+186,Webcam,3,1047.32,51,Chicago,Debit Card,2025-11-18,Female,False,Accessories
+343,Headphones,3,320.9,45,Los Angeles,Debit Card,2025-11-18,Female,False,Accessories
+295,Speaker,3,1169.98,48,Chicago,Credit Card,2025-11-18,Male,True,Audio
+286,Mouse,2,444.15,24,Los Angeles,Debit Card,2025-11-18,Male,True,Accessories
+345,Headphones,3,623.3,66,Chicago,Cash,2025-11-18,Female,False,Accessories
+283,Laptop,3,1158.7,18,New York,Credit Card,2025-11-18,Male,False,Electronics
+182,Keyboard,4,1125.24,27,Chicago,Credit Card,2025-11-18,Female,False,Accessories
+302,Speaker,5,294.98,18,Chicago,Online Transfer,2025-11-18,Male,True,Audio
+473,Headphones,3,557.66,56,New York,Online Transfer,2025-11-18,Female,False,Accessories
+192,Microphone,3,299.73,43,New York,Credit Card,2025-11-18,Female,False,Audio
+56,Speaker,2,216.52,56,Chicago,Debit Card,2025-11-18,Female,True,Audio
+276,Webcam,4,711.95,18,New York,Online Transfer,2025-11-18,Male,True,Accessories
+178,Mouse,4,612.38,20,Los Angeles,Credit Card,2025-11-19,Female,False,Accessories
+355,Monitor,2,188.6,22,New York,Cash,2025-11-19,Female,False,Electronics
+175,Keyboard,4,147.82,49,Chicago,Debit Card,2025-11-19,Female,False,Accessories
+165,Monitor,5,183.26,27,Los Angeles,Cash,2025-11-19,Female,False,Electronics
+363,Microphone,5,316.91,60,Los Angeles,Debit Card,2025-11-19,Male,False,Audio
+107,Microphone,2,549.34,67,Chicago,Cash,2025-11-19,Male,False,Audio
+208,Laptop,4,198.43,22,Chicago,Debit Card,2025-11-19,Male,False,Electronics
+386,Keyboard,5,685.79,65,Chicago,Debit Card,2025-11-19,Female,False,Accessories
+7,Webcam,5,1134.45,50,Chicago,Credit Card,2025-11-19,Male,False,Accessories
+139,Keyboard,4,410.81,30,Los Angeles,Online Transfer,2025-11-19,Male,False,Accessories
+12,Keyboard,4,80.0,21,New York,Online Transfer,2025-11-19,Female,False,Accessories
+13,Microphone,3,106.55,64,Chicago,Cash,2025-11-19,Female,False,Audio
+14,Webcam,3,807.69,29,New York,Debit Card,2025-11-19,Female,False,Accessories
+248,Laptop,5,824.7,20,New York,Cash,2025-11-19,Male,False,Electronics
+435,Speaker,3,618.25,26,Los Angeles,Credit Card,2025-11-19,Male,False,Audio
+385,Headphones,4,416.45,58,Chicago,Cash,2025-11-19,Female,False,Accessories
+470,Monitor,4,495.82,19,New York,Credit Card,2025-11-19,Male,False,Electronics
+36,Headphones,5,747.27,57,New York,Cash,2025-11-20,Male,False,Accessories
+471,Keyboard,3,565.71,37,Chicago,Cash,2025-11-20,Female,False,Accessories
+191,Laptop,2,718.14,59,New York,Credit Card,2025-11-20,Male,True,Electronics
+356,Headphones,3,143.04,35,Chicago,Credit Card,2025-11-20,Male,False,Accessories
+460,Headphones,3,1141.09,19,New York,Online Transfer,2025-11-20,Male,True,Accessories
+446,Laptop,4,634.74,59,Los Angeles,Online Transfer,2025-11-20,Male,False,Electronics
+342,Webcam,5,56.27,54,New York,Debit Card,2025-11-20,Male,False,Accessories
+177,Speaker,3,491.43,20,Chicago,Credit Card,2025-11-20,Male,True,Audio
+406,Keyboard,5,949.49,22,Los Angeles,Debit Card,2025-11-20,Female,False,Accessories
+364,Keyboard,4,415.74,30,Los Angeles,Online Transfer,2025-11-20,Male,False,Accessories
+366,Webcam,4,425.63,44,Chicago,Online Transfer,2025-11-20,Female,False,Accessories
+143,Headphones,2,406.81,27,New York,Credit Card,2025-11-20,Male,True,Accessories
+469,Speaker,3,663.87,35,Chicago,Credit Card,2025-11-20,Male,True,Audio
+146,Mouse,2,1152.64,35,Chicago,Cash,2025-11-20,Male,False,Accessories
+498,Webcam,5,1012.94,66,Los Angeles,Debit Card,2025-11-20,Male,True,Accessories
+262,Headphones,2,498.16,35,Los Angeles,Credit Card,2025-11-20,Male,False,Accessories
+337,Monitor,4,624.82,57,New York,Debit Card,2025-11-20,Female,False,Electronics
+284,Headphones,2,615.9,28,Chicago,Credit Card,2025-11-20,Male,False,Accessories
+415,Webcam,4,384.66,27,Chicago,Online Transfer,2025-11-21,Male,False,Accessories
+453,Laptop,5,760.14,61,Los Angeles,Cash,2025-11-21,Female,False,Electronics
+308,Mouse,2,452.49,55,Los Angeles,Cash,2025-11-21,Female,False,Accessories
+395,Laptop,4,1186.9,59,New York,Cash,2025-11-21,Female,False,Electronics
+152,Headphones,2,1036.5,43,Chicago,Debit Card,2025-11-21,Female,True,Accessories
+41,Keyboard,3,1146.98,38,New York,Online Transfer,2025-11-21,Male,False,Accessories
+275,Headphones,4,479.38,18,Chicago,Debit Card,2025-11-21,Male,False,Accessories
+481,Monitor,3,801.89,24,Chicago,Cash,2025-11-21,Female,False,Electronics
+333,Microphone,2,840.2,21,New York,Online Transfer,2025-11-21,Female,True,Audio
+90,Webcam,2,184.5,59,Los Angeles,Debit Card,2025-11-21,Female,False,Accessories
+229,Keyboard,3,641.74,59,New York,Debit Card,2025-11-21,Male,True,Accessories
+436,Headphones,4,1153.53,27,New York,Cash,2025-11-21,Male,False,Accessories
+187,Mouse,3,1180.26,51,New York,Credit Card,2025-11-21,Male,False,Accessories
+318,Monitor,2,913.95,69,Chicago,Cash,2025-11-21,Male,False,Electronics
+4,Laptop,5,873.3,31,Chicago,Online Transfer,2025-11-21,Male,True,Electronics
+222,Mouse,4,989.23,68,Chicago,Online Transfer,2025-11-21,Female,True,Accessories
+297,Keyboard,2,285.78,61,Chicago,Debit Card,2025-11-21,Female,False,Accessories
+212,Headphones,2,442.85,20,Los Angeles,Cash,2025-11-21,Female,False,Accessories
+217,Keyboard,5,456.22,58,New York,Online Transfer,2025-11-21,Male,False,Accessories
+207,Webcam,4,338.61,23,Los Angeles,Online Transfer,2025-11-21,Female,True,Accessories
+174,Speaker,4,1182.72,19,Los Angeles,Cash,2025-11-22,Male,False,Audio
+274,Keyboard,2,233.72,64,Los Angeles,Cash,2025-11-22,Female,True,Accessories
+204,Monitor,5,432.4,55,New York,Credit Card,2025-11-22,Female,True,Electronics
+325,Mouse,5,254.0,57,Chicago,Credit Card,2025-11-22,Male,False,Accessories
+89,Keyboard,3,1109.35,35,Chicago,Debit Card,2025-11-22,Female,False,Accessories
+35,Laptop,2,257.46,26,Los Angeles,Online Transfer,2025-11-22,Female,False,Electronics
+8,Laptop,5,365.73,67,Chicago,Cash,2025-11-22,Female,False,Electronics
+380,Speaker,3,971.88,28,Los Angeles,Cash,2025-11-22,Male,True,Audio
+255,Monitor,3,66.24,38,Los Angeles,Credit Card,2025-11-22,Male,False,Electronics
+270,Speaker,5,236.12,45,Chicago,Debit Card,2025-11-22,Female,False,Audio
+434,Speaker,2,153.56,42,New York,Cash,2025-11-22,Female,True,Audio
+484,Headphones,2,817.48,56,New York,Debit Card,2025-11-22,Female,False,Accessories
+185,Microphone,5,772.32,51,Chicago,Cash,2025-11-22,Male,False,Audio
+199,Headphones,5,908.63,40,Los Angeles,Credit Card,2025-11-22,Male,False,Accessories
+78,Keyboard,3,611.55,50,Los Angeles,Cash,2025-11-23,Female,True,Accessories
+292,Speaker,4,495.37,64,Los Angeles,Cash,2025-11-23,Female,False,Audio
+397,Microphone,3,99.19,39,Chicago,Cash,2025-11-23,Male,False,Audio
+466,Mouse,2,953.64,26,Los Angeles,Debit Card,2025-11-23,Female,False,Accessories
+239,Monitor,4,845.89,46,Los Angeles,Credit Card,2025-11-23,Female,False,Electronics
+45,Headphones,2,756.38,57,Chicago,Credit Card,2025-11-23,Male,False,Accessories
+311,Monitor,2,976.65,60,Los Angeles,Cash,2025-11-23,Male,False,Electronics
+42,Webcam,3,623.23,41,Los Angeles,Credit Card,2025-11-23,Male,True,Accessories
+150,Webcam,4,802.78,56,Los Angeles,Credit Card,2025-11-23,Female,True,Accessories
+15,Speaker,5,1171.18,31,Chicago,Debit Card,2025-11-23,Male,False,Audio
+110,Headphones,4,203.58,19,New York,Cash,2025-11-23,Female,False,Accessories
+475,Speaker,4,381.3,64,Los Angeles,Credit Card,2025-11-23,Male,False,Audio
+129,Mouse,4,384.99,59,Los Angeles,Online Transfer,2025-11-23,Female,False,Accessories
+173,Keyboard,5,622.5,54,Los Angeles,Credit Card,2025-11-23,Male,False,Accessories
+335,Headphones,2,81.89,30,Chicago,Cash,2025-11-23,Female,False,Accessories
+351,Monitor,4,531.56,21,New York,Cash,2025-11-23,Female,True,Electronics
+218,Keyboard,5,737.67,18,Los Angeles,Credit Card,2025-11-23,Male,True,Accessories
+405,Webcam,2,234.46,44,New York,Credit Card,2025-11-23,Male,False,Accessories
+123,Microphone,3,334.28,63,New York,Credit Card,2025-11-23,Female,True,Audio
+158,Laptop,5,364.95,57,Los Angeles,Credit Card,2025-11-23,Female,True,Electronics
+369,Mouse,3,796.3,60,Chicago,Cash,2025-11-23,Female,True,Accessories
+447,Keyboard,3,861.27,35,New York,Cash,2025-11-24,Male,True,Accessories
+86,Mouse,4,1075.95,39,New York,Online Transfer,2025-11-24,Female,False,Accessories
+421,Webcam,3,496.81,38,Los Angeles,Cash,2025-11-24,Female,False,Accessories
+256,Mouse,2,391.43,39,New York,Credit Card,2025-11-24,Female,True,Accessories
+424,Laptop,5,299.05,32,New York,Online Transfer,2025-11-24,Female,False,Electronics
+142,Microphone,4,1118.14,41,New York,Online Transfer,2025-11-24,Male,False,Audio
+491,Mouse,4,488.76,35,New York,Online Transfer,2025-11-24,Female,False,Accessories
+290,Microphone,3,614.93,49,New York,Debit Card,2025-11-24,Male,False,Audio
+220,Laptop,2,197.95,40,Chicago,Online Transfer,2025-11-24,Male,False,Electronics
+486,Keyboard,5,80.25,24,Los Angeles,Credit Card,2025-11-24,Male,False,Accessories
+141,Monitor,3,435.85,48,New York,Online Transfer,2025-11-24,Male,False,Electronics
+227,Keyboard,4,193.45,30,Chicago,Cash,2025-11-24,Female,False,Accessories
+27,Microphone,4,229.33,51,Chicago,Online Transfer,2025-11-24,Male,False,Audio
+328,Laptop,2,742.33,59,Chicago,Debit Card,2025-11-24,Male,True,Electronics
+235,Speaker,5,855.37,60,Chicago,Cash,2025-11-24,Male,False,Audio
+40,Microphone,4,55.37,48,Chicago,Debit Card,2025-11-24,Male,False,Audio
+272,Headphones,4,475.86,45,Chicago,Credit Card,2025-11-24,Male,False,Accessories
+148,Headphones,2,838.08,39,New York,Credit Card,2025-11-24,Female,False,Accessories
+479,Webcam,4,627.95,58,New York,Online Transfer,2025-11-24,Female,False,Accessories
+474,Mouse,3,811.66,60,New York,Debit Card,2025-11-24,Female,False,Accessories
+28,Keyboard,2,1199.27,54,Los Angeles,Credit Card,2025-11-25,Male,False,Accessories
+257,Monitor,3,819.82,20,Chicago,Cash,2025-11-25,Female,False,Electronics
+482,Microphone,4,183.58,49,New York,Credit Card,2025-11-25,Female,False,Audio
+51,Mouse,2,533.23,69,Chicago,Debit Card,2025-11-25,Male,False,Accessories
+211,Speaker,4,777.87,31,Los Angeles,Debit Card,2025-11-25,Male,False,Audio
+316,Webcam,2,208.73,24,Los Angeles,Cash,2025-11-25,Male,True,Accessories
+338,Laptop,2,258.88,48,Chicago,Credit Card,2025-11-25,Female,False,Electronics
+293,Mouse,5,422.44,25,Chicago,Cash,2025-11-25,Female,False,Accessories
+121,Mouse,5,495.33,22,New York,Debit Card,2025-11-25,Female,False,Accessories
+138,Headphones,4,613.18,57,Chicago,Debit Card,2025-11-25,Female,False,Accessories
+130,Monitor,5,382.32,32,New York,Cash,2025-11-25,Male,False,Electronics
+322,Mouse,4,546.12,18,Chicago,Debit Card,2025-11-25,Female,False,Accessories
+321,Mouse,5,770.25,61,Chicago,Online Transfer,2025-11-25,Male,True,Accessories
+340,Mouse,3,827.56,23,Los Angeles,Cash,2025-11-25,Male,False,Accessories
+128,Headphones,5,171.08,36,New York,Cash,2025-11-25,Male,False,Accessories
+39,Headphones,2,823.71,18,Chicago,Cash,2025-11-26,Male,False,Accessories
+159,Mouse,4,455.58,41,New York,Online Transfer,2025-11-26,Female,False,Accessories
+19,Laptop,2,83.23,34,Chicago,Cash,2025-11-26,Female,True,Electronics
+49,Mouse,5,732.12,36,Los Angeles,Credit Card,2025-11-26,Male,False,Accessories
+299,Webcam,4,659.55,60,New York,Online Transfer,2025-11-26,Female,True,Accessories
+69,Mouse,3,763.03,63,Chicago,Online Transfer,2025-11-26,Male,False,Accessories
+215,Keyboard,5,649.84,49,New York,Cash,2025-11-26,Female,False,Accessories
+456,Laptop,4,674.06,62,Los Angeles,Debit Card,2025-11-26,Male,False,Electronics
+450,Speaker,2,186.05,60,New York,Debit Card,2025-11-26,Male,False,Audio
+81,Webcam,4,1127.35,41,New York,Cash,2025-11-26,Male,False,Accessories
+260,Speaker,2,470.94,26,Chicago,Cash,2025-11-26,Male,False,Audio
+259,Monitor,2,455.24,40,New York,Credit Card,2025-11-26,Female,False,Electronics
+329,Webcam,3,773.6,35,Los Angeles,Debit Card,2025-11-26,Female,False,Accessories
+113,Monitor,2,1147.69,23,Los Angeles,Credit Card,2025-11-26,Male,False,Electronics
+125,Mouse,2,772.01,44,New York,Credit Card,2025-11-26,Male,False,Accessories
+119,Webcam,4,199.75,43,Los Angeles,Debit Card,2025-11-26,Female,False,Accessories
+44,Speaker,2,607.3,54,Chicago,Online Transfer,2025-11-27,Male,False,Audio
+153,Headphones,3,580.48,20,Los Angeles,Online Transfer,2025-11-27,Male,False,Accessories
+376,Laptop,3,732.89,47,Los Angeles,Cash,2025-11-27,Male,False,Electronics
+172,Microphone,2,930.96,24,Los Angeles,Online Transfer,2025-11-27,Male,False,Audio
+336,Webcam,2,1182.64,49,New York,Cash,2025-11-27,Female,False,Accessories
+360,Microphone,2,1138.3,25,Los Angeles,Cash,2025-11-27,Male,False,Audio
+261,Speaker,2,432.01,66,New York,Online Transfer,2025-11-27,Male,False,Audio
+451,Monitor,4,141.74,58,Chicago,Debit Card,2025-11-27,Male,False,Electronics
+463,Keyboard,4,817.61,26,Chicago,Online Transfer,2025-11-27,Male,False,Accessories
+47,Mouse,3,245.03,60,Chicago,Online Transfer,2025-11-27,Female,False,Accessories
+3,Microphone,2,249.45,33,Los Angeles,Cash,2025-11-27,Female,False,Audio
+112,Speaker,5,907.16,61,Los Angeles,Debit Card,2025-11-27,Female,True,Audio
+43,Speaker,2,954.71,55,New York,Online Transfer,2025-11-28,Male,False,Audio
+402,Mouse,4,579.17,58,New York,Cash,2025-11-28,Male,False,Accessories
+52,Laptop,4,980.17,65,Chicago,Cash,2025-11-28,Female,False,Electronics
+384,Monitor,2,179.01,67,Los Angeles,Cash,2025-11-28,Male,True,Electronics
+160,Headphones,4,613.97,56,Los Angeles,Online Transfer,2025-11-28,Female,False,Accessories
+114,Microphone,2,1035.98,36,Chicago,Debit Card,2025-11-28,Female,False,Audio
+365,Laptop,2,713.22,56,Los Angeles,Credit Card,2025-11-28,Male,False,Electronics
+108,Mouse,2,1121.83,41,Los Angeles,Debit Card,2025-11-28,Male,True,Accessories
+213,Webcam,3,130.29,20,New York,Credit Card,2025-11-28,Male,False,Accessories
+400,Webcam,3,1091.18,52,Chicago,Credit Card,2025-11-28,Male,False,Accessories
+184,Microphone,4,593.53,66,Los Angeles,Debit Card,2025-11-28,Female,True,Audio
+408,Mouse,2,1077.39,37,Chicago,Cash,2025-11-28,Male,False,Accessories
+407,Keyboard,3,1027.79,69,New York,Cash,2025-11-28,Female,False,Accessories
+77,Webcam,3,314.22,25,New York,Cash,2025-11-28,Female,False,Accessories
+176,Mouse,5,486.88,22,New York,Credit Card,2025-11-28,Female,True,Accessories
+489,Speaker,2,613.64,45,Chicago,Credit Card,2025-11-29,Male,False,Audio
+32,Speaker,5,1118.28,26,Chicago,Cash,2025-11-29,Female,False,Audio
+492,Speaker,2,437.66,27,Chicago,Debit Card,2025-11-29,Male,False,Audio
+162,Monitor,5,350.14,64,Los Angeles,Online Transfer,2025-11-29,Male,False,Electronics
+490,Keyboard,5,875.74,63,Los Angeles,Credit Card,2025-11-29,Male,False,Accessories
+223,Monitor,5,496.08,49,Chicago,Online Transfer,2025-11-29,Female,True,Electronics
+317,Webcam,2,223.96,57,Los Angeles,Debit Card,2025-11-29,Male,True,Accessories
+298,Headphones,5,686.98,21,Los Angeles,Credit Card,2025-11-29,Female,False,Accessories
+437,Speaker,3,1081.71,30,New York,Debit Card,2025-11-29,Female,False,Audio
+472,Webcam,2,814.48,56,Los Angeles,Debit Card,2025-11-29,Female,False,Accessories
+438,Keyboard,2,313.45,66,Los Angeles,Credit Card,2025-11-29,Female,True,Accessories
+393,Laptop,2,782.68,35,New York,Credit Card,2025-11-29,Female,False,Electronics
+46,Headphones,4,553.28,42,Los Angeles,Cash,2025-11-29,Male,False,Accessories
+390,Keyboard,5,949.66,62,New York,Debit Card,2025-11-29,Female,False,Accessories
+64,Laptop,5,249.16,56,Chicago,Debit Card,2025-11-29,Female,False,Electronics
+429,Headphones,5,901.8,61,Chicago,Online Transfer,2025-11-29,Male,False,Accessories
+101,Keyboard,5,383.53,18,Los Angeles,Online Transfer,2025-11-29,Male,False,Accessories
+273,Laptop,3,782.02,59,Chicago,Cash,2025-11-29,Female,False,Electronics
+323,Speaker,4,1179.73,69,Los Angeles,Debit Card,2025-11-30,Female,True,Audio
+441,Keyboard,4,495.7,38,New York,Credit Card,2025-11-30,Female,False,Accessories
+247,Microphone,4,1111.45,38,Chicago,Debit Card,2025-11-30,Male,False,Audio
+433,Headphones,5,164.27,51,Chicago,Online Transfer,2025-11-30,Male,True,Accessories
+291,Microphone,4,637.35,44,Los Angeles,Cash,2025-11-30,Male,True,Audio
+50,Laptop,2,724.06,45,New York,Cash,2025-11-30,Male,False,Electronics
+432,Headphones,3,70.61,62,Los Angeles,Online Transfer,2025-11-30,Female,True,Accessories
+193,Microphone,5,483.14,46,New York,Online Transfer,2025-11-30,Female,False,Audio
+188,Monitor,5,430.95,51,Chicago,Cash,2025-11-30,Female,False,Electronics
+252,Microphone,2,1002.34,27,Chicago,Online Transfer,2025-11-30,Male,False,Audio
+98,Webcam,5,272.58,59,New York,Credit Card,2025-11-30,Female,False,Accessories
+307,Keyboard,2,663.42,60,Los Angeles,Debit Card,2025-11-30,Male,True,Accessories
+240,Laptop,2,53.73,63,New York,Cash,2025-11-30,Male,False,Electronics
+34,Laptop,2,211.17,60,New York,Online Transfer,2025-11-30,Male,False,Electronics
+303,Laptop,4,395.51,62,Los Angeles,Online Transfer,2025-12-01,Male,False,Electronics
+241,Microphone,3,822.99,19,Chicago,Credit Card,2025-12-01,Female,True,Audio
+61,Webcam,5,1060.18,22,Chicago,Online Transfer,2025-12-01,Male,False,Accessories
+5,Microphone,2,62.7,40,Chicago,Debit Card,2025-12-01,Male,False,Audio
+468,Speaker,3,109.44,61,Los Angeles,Debit Card,2025-12-01,Male,False,Audio
+115,Webcam,2,108.76,57,Los Angeles,Credit Card,2025-12-01,Male,False,Accessories
+349,Microphone,5,1045.97,46,Chicago,Credit Card,2025-12-01,Female,False,Audio
+483,Monitor,2,1134.31,54,Chicago,Cash,2025-12-01,Female,False,Electronics
+266,Laptop,4,518.88,36,Los Angeles,Credit Card,2025-12-01,Male,False,Electronics
+350,Microphone,2,206.02,30,Chicago,Credit Card,2025-12-01,Male,False,Audio
+149,Headphones,3,761.33,61,Los Angeles,Online Transfer,2025-12-01,Female,False,Accessories
+75,Headphones,3,687.17,54,New York,Online Transfer,2025-12-01,Female,False,Accessories
+221,Laptop,5,842.0,41,Los Angeles,Cash,2025-12-01,Male,False,Electronics
+118,Keyboard,3,444.33,57,Los Angeles,Cash,2025-12-01,Male,True,Accessories
+66,Speaker,4,743.93,37,Los Angeles,Online Transfer,2025-12-01,Male,False,Audio
+249,Speaker,2,106.68,50,New York,Debit Card,2025-12-01,Male,False,Audio
+425,Webcam,5,702.82,67,New York,Credit Card,2025-12-01,Female,True,Accessories
+171,Microphone,4,305.01,67,New York,Online Transfer,2025-12-01,Male,False,Audio
+137,Laptop,4,152.3,50,Chicago,Cash,2025-12-01,Female,False,Electronics
