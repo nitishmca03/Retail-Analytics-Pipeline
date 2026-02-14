@@ -45,7 +45,7 @@ This project is a comprehensive retail analytics dashboard built with Python and
 
 The application is intended to be deployed on the Streamlit Community Cloud. Once you have deployed it, you can add the public URL here.
 
-[**View the Live Application**](YOUR_STREAMLIT_APP_URL_HERE)
+[**View the Live Application**](https://retail-analytics-pipeline-si6rvhvo6xqbvkqvvgur9e.streamlit.app/)
 
 *(Note: You will need to replace `YOUR_STREAMLIT_APP_URL_HERE` with the actual URL of your deployed application after you've deployed it.)*
 
